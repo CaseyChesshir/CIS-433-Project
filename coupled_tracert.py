@@ -7,8 +7,8 @@
 import subprocess, sys, time
 
 dest = sys.argv[1]
-date = time.strftime("%m_%d_%Y__%H_%M")
-date = date + '.txt'
+date = time.strftime("%m_%d")
+date = dest + '_' + date + '.txt'
 text_file = open(date, "a")
 
 # Accepts the string result of a tracert command and returns a list of

@@ -10,8 +10,9 @@ urls = [url.decode() for url in urls]
 
 sites = []
 for url in urls:
-	temp = re.findall(r'/siteinfo/\w+\.\w+',url)
-	sites.append([site[10:] for site in temp])
+	temp = re.findall(r'/siteinfo/.+>.+<',url)
+	sites.append([site[site.find(">") + 1:site.find("<")] for site in temp])
+
 
 f = open('output.txt','w')
 

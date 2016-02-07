@@ -14,7 +14,7 @@ for url in urls:
 	sites.append([site[site.find(">") + 1:site.find("<")] for site in temp])
 
 
-f = open('output.txt','w')
+f = open('top500sites.txt','w')
 
 for site in sites:
 	for item in site:

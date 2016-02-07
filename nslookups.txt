@@ -1,0 +1,7785 @@
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Google.com	has AAAA address 2607:f8b0:400a:801::200e
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Facebook.com	has AAAA address 2a03:2880:2130:7f20:face:b00c::25de
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Youtube.com	has AAAA address 2607:f8b0:400a:801::200e
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Amazon.com: No answer
+
+Authoritative answers can be found from:
+Amazon.com
+	origin = dns-external-master.Amazon.com
+	mail addr = root.Amazon.com
+	serial = 2010113244
+	refresh = 180
+	retry = 60
+	expire = 3024000
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Yahoo.com	has AAAA address 2001:4998:44:204::a7
+Yahoo.com	has AAAA address 2001:4998:c:a06::2:4008
+Yahoo.com	has AAAA address 2001:4998:58:c02::a9
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Wikipedia.org	has AAAA address 2620:0:863:ed1a::1
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ebay.com: No answer
+
+Authoritative answers can be found from:
+Ebay.com
+	origin = sjc-dns1.ebaydns.com
+	mail addr = hostmaster.Ebay.com
+	serial = 2013121577
+	refresh = 3600
+	retry = 1800
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Twitter.com: No answer
+
+Authoritative answers can be found from:
+Twitter.com
+	origin = ns1.p26.dynect.net
+	mail addr = zone-admin.dyndns.com
+	serial = 2007123486
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Reddit.com: No answer
+
+Authoritative answers can be found from:
+Reddit.com
+	origin = cns1.Reddit.com
+	mail addr = dns.cloudflare.com
+	serial = 2020603759
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Netflix.com: No answer
+
+Authoritative answers can be found from:
+Netflix.com
+	origin = ns-81.awsdns-10.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Live.com: No answer
+
+Authoritative answers can be found from:
+Live.com
+	origin = ns1.msft.net
+	mail addr = msnhst.microsoft.com
+	serial = 2016020501
+	refresh = 7200
+	retry = 900
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Linkedin.com: No answer
+
+Authoritative answers can be found from:
+Linkedin.com
+	origin = ns1.p43.dynect.net
+	mail addr = hostmaster.Linkedin.com
+	serial = 2016020601
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pinterest.com: No answer
+
+Authoritative answers can be found from:
+Pinterest.com
+	origin = ns1.Pinterest.com
+	mail addr = dns.Pinterest.com
+	serial = 253
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Craigslist.org: No answer
+
+Authoritative answers can be found from:
+Craigslist.org
+	origin = ns1f.Craigslist.org
+	mail addr = hostmaster.Craigslist.org
+	serial = 2015110700
+	refresh = 10800
+	retry = 1800
+	expire = 2419200
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Go.com: No answer
+
+Authoritative answers can be found from:
+Go.com
+	origin = sens01.dig.com
+	mail addr = dns-ops.dig.com
+	serial = 2016020499
+	refresh = 1200
+	retry = 180
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Imgur.com: No answer
+
+Authoritative answers can be found from:
+Imgur.com
+	origin = dns1.p03.nsone.net
+	mail addr = hostmaster.nsone.net
+	serial = 1454357645
+	refresh = 43200
+	retry = 7200
+	expire = 1209600
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Chase.com: No answer
+
+Authoritative answers can be found from:
+Chase.com
+	origin = ns1.jpmorganchase.com
+	mail addr = hostmaster.jpmchase.com
+	serial = 2011084757
+	refresh = 10800
+	retry = 1800
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Paypal.com: No answer
+
+Authoritative answers can be found from:
+Paypal.com
+	origin = ppns1.phx.Paypal.com
+	mail addr = hostmaster.Paypal.com
+	serial = 2012216551
+	refresh = 7200
+	retry = 600
+	expire = 1209600
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Tumblr.com: No answer
+
+Authoritative answers can be found from:
+Tumblr.com
+	origin = ns1.p03.dynect.net
+	mail addr = hostmaster.Tumblr.com
+	serial = 6286
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cnn.com: No answer
+
+Authoritative answers can be found from:
+Cnn.com
+	origin = ns1.timewarner.net
+	mail addr = hostmaster.turner.com
+	serial = 2016011501
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Instagram.com: No answer
+
+Authoritative answers can be found from:
+Instagram.com
+	origin = ns-852.awsdns-42.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 2
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bing.com: No answer
+
+Authoritative answers can be found from:
+Bing.com
+	origin = ns1.msedge.net
+	mail addr = msnhst.microsoft.com
+	serial = 2016011101
+	refresh = 1800
+	retry = 900
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Imdb.com: No answer
+
+Authoritative answers can be found from:
+Imdb.com
+	origin = dns-external-master.amazon.com
+	mail addr = root.amazon.com
+	serial = 200908275
+	refresh = 600
+	retry = 900
+	expire = 604800
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bankofamerica.com: No answer
+
+Authoritative answers can be found from:
+Bankofamerica.com
+	origin = ns6.bac.com
+	mail addr = hostmaster.Bankofamerica.com
+	serial = 2013990442
+	refresh = 3600
+	retry = 1800
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Espn.go.com	canonical name = espn.gns.go.com.
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nytimes.com: No answer
+
+Authoritative answers can be found from:
+Nytimes.com
+	origin = ns1.p24.dynect.net
+	mail addr = hostmaster.Nytimes.com
+	serial = 2013062913
+	refresh = 300
+	retry = 150
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Msn.com: No answer
+
+Authoritative answers can be found from:
+Msn.com
+	origin = ns1.msft.net
+	mail addr = msnhst.microsoft.com
+	serial = 2016012801
+	refresh = 7200
+	retry = 900
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Weather.com: No answer
+
+Authoritative answers can be found from:
+Weather.com
+	origin = a1-70.akam.net
+	mail addr = dnsmanager.Weather.com
+	serial = 1454689233
+	refresh = 120
+	retry = 300
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find T.co: No answer
+
+Authoritative answers can be found from:
+T.co
+	origin = ns1.p26.dynect.net
+	mail addr = ops.twitter.com
+	serial = 736
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Wellsfargo.com: No answer
+
+Authoritative answers can be found from:
+Wellsfargo.com
+	origin = nsx.Wellsfargo.com
+	mail addr = hostmaster.Wellsfargo.com
+	serial = 2009362818
+	refresh = 1800
+	retry = 900
+	expire = 2592000
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Blogspot.com	has AAAA address 2607:f8b0:400a:807::2009
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Yelp.com: No answer
+
+Authoritative answers can be found from:
+Yelp.com
+	origin = extdns.yelpcorp.com
+	mail addr = hostmaster.yelpcorp.com
+	serial = 2019226662
+	refresh = 3600
+	retry = 900
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Office.com	has AAAA address 2a01:111:f406:2402::20
+Office.com	has AAAA address 2a01:111:f406:8800::20
+Office.com	has AAAA address 2a01:111:f406:b401::20
+Office.com	has AAAA address 2a01:111:f406:400::20
+Office.com	has AAAA address 2a01:111:f406:9400::20
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Zillow.com: No answer
+
+Authoritative answers can be found from:
+Zillow.com
+	origin = ns1.p27.dynect.net
+	mail addr = domains.Zillow.com
+	serial = 198
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Walmart.com: No answer
+
+Authoritative answers can be found from:
+Walmart.com
+	origin = pdns1.ultradns.net
+	mail addr = hostmaster.Walmart.com
+	serial = 2013112263
+	refresh = 3600
+	retry = 3600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Apple.com: No answer
+
+Authoritative answers can be found from:
+Apple.com
+	origin = gridmaster-ib.Apple.com
+	mail addr = hostmaster.Apple.com
+	serial = 2010098080
+	refresh = 900
+	retry = 900
+	expire = 2016000
+	minimum = 86500
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Huffingtonpost.com: No answer
+
+Authoritative answers can be found from:
+Huffingtonpost.com
+	origin = dns-01.ns.aol.com
+	mail addr = hostmaster.aol.net
+	serial = 470951508
+	refresh = 86400
+	retry = 180
+	expire = 2592000
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Wordpress.com: No answer
+
+Authoritative answers can be found from:
+Wordpress.com
+	origin = ns1.Wordpress.com
+	mail addr = mmmmmm.gmail.com
+	serial = 2005071858
+	refresh = 14400
+	retry = 7200
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Etsy.com: No answer
+
+Authoritative answers can be found from:
+Etsy.com
+	origin = ns1.Etsy.com
+	mail addr = sysops.Etsy.com
+	serial = 2012094804
+	refresh = 10800
+	retry = 3600
+	expire = 1209600
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Intuit.com: No answer
+
+Authoritative answers can be found from:
+Intuit.com
+	origin = dns1.quicken.com
+	mail addr = nadmin.intuit.com.Intuit.com
+	serial = 2016020304
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Buzzfeed.com: No answer
+
+Authoritative answers can be found from:
+Buzzfeed.com
+	origin = ns-1367.awsdns-42.org
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Microsoftonline.com: No answer
+
+Authoritative answers can be found from:
+Microsoftonline.com
+	origin = ns1.msft.net
+	mail addr = msnhst.microsoft.com
+	serial = 2016020401
+	refresh = 7200
+	retry = 900
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Microsoft.com: No answer
+
+Authoritative answers can be found from:
+Microsoft.com
+	origin = ns1.msft.net
+	mail addr = msnhst.Microsoft.com
+	serial = 2016020503
+	refresh = 7200
+	retry = 600
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Aol.com: No answer
+
+Authoritative answers can be found from:
+Aol.com
+	origin = dns-01.ns.Aol.com
+	mail addr = hostmaster.aol.net
+	serial = 470952191
+	refresh = 86400
+	retry = 180
+	expire = 2592000
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Target.com: No answer
+
+Authoritative answers can be found from:
+Target.com
+	origin = tcztextdns01p.Target.com
+	mail addr = hostmaster.Target.com
+	serial = 2005134810
+	refresh = 28800
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Comcast.net: No answer
+
+Authoritative answers can be found from:
+Comcast.net
+	origin = dns101.Comcast.net
+	mail addr = domregtech.comcastonline.com
+	serial = 2008187000
+	refresh = 7200
+	retry = 3600
+	expire = 1209600
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Foxnews.com: No answer
+
+Authoritative answers can be found from:
+Foxnews.com
+	origin = dns.tpa.Foxnews.com
+	mail addr = david.robertson.Foxnews.com
+	serial = 2016012802
+	refresh = 300
+	retry = 300
+	expire = 2419200
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Washingtonpost.com: No answer
+
+Authoritative answers can be found from:
+Washingtonpost.com
+	origin = ns-1027.awsdns-00.org
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bestbuy.com: No answer
+
+Authoritative answers can be found from:
+Bestbuy.com
+	origin = tag1.Bestbuy.com
+	mail addr = please_set_email.absolutely.nowhere
+	serial = 2008065256
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Usps.com: No answer
+
+Authoritative answers can be found from:
+Usps.com
+	origin = dns141.Usps.com
+	mail addr = domainadmin.imail.usps.gov
+	serial = 460549773
+	refresh = 3600
+	retry = 1800
+	expire = 1209600
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Wikia.com: No answer
+
+Authoritative answers can be found from:
+Wikia.com
+	origin = ns1.p11.dynect.net
+	mail addr = technical.Wikia.com
+	serial = 2009154039
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Indeed.com: No answer
+
+Authoritative answers can be found from:
+Indeed.com
+	origin = ns1.p01.dynect.net
+	mail addr = hostmaster.Indeed.com
+	serial = 2010084175
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Xfinity.com: No answer
+
+Authoritative answers can be found from:
+Xfinity.com
+	origin = dns101.comcast.net
+	mail addr = dnsadmin.comcast.net
+	serial = 2015034818
+	refresh = 7200
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Homedepot.com: No answer
+
+Authoritative answers can be found from:
+Homedepot.com
+	origin = nsa.Homedepot.com
+	mail addr = zone_administrator.Homedepot.com
+	serial = 468124788
+	refresh = 3600
+	retry = 1200
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Outbrain.com: No answer
+
+Authoritative answers can be found from:
+Outbrain.com
+	origin = ns1.p18.dynect.net
+	mail addr = ops.Outbrain.com
+	serial = 3360
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pandora.com: No answer
+
+Authoritative answers can be found from:
+Pandora.com
+	origin = ns.savagebeast.com
+	mail addr = sysad.savagebeast.com
+	serial = 2016020202
+	refresh = 1800
+	retry = 1800
+	expire = 43200
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Capitalone.com: No answer
+
+Authoritative answers can be found from:
+Capitalone.com
+	origin = weapon-x.Capitalone.com
+	mail addr = hostmaster.Capitalone.com
+	serial = 2012074086
+	refresh = 10800
+	retry = 3600
+	expire = 1814400
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Americanexpress.com: No answer
+
+Authoritative answers can be found from:
+Americanexpress.com
+	origin = ns1-57.akam.net
+	mail addr = axp_dns_team.aexp.com
+	serial = 4221
+	refresh = 21600
+	retry = 3600
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Hulu.com: No answer
+
+Authoritative answers can be found from:
+Hulu.com
+	origin = use9.akam.net
+	mail addr = dnsadmin.Hulu.com
+	serial = 1454700423
+	refresh = 300
+	retry = 300
+	expire = 2592000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Slickdeals.net: No answer
+
+Authoritative answers can be found from:
+Slickdeals.net
+	origin = ns1.Slickdeals.net
+	mail addr = hostmaster.Slickdeals.net
+	serial = 1453924738
+	refresh = 16384
+	retry = 2048
+	expire = 1048576
+	minimum = 2560
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Gfycat.com	has AAAA address 2400:cb00:2048:1::6810:73a5
+Gfycat.com	has AAAA address 2400:cb00:2048:1::6810:71a5
+Gfycat.com	has AAAA address 2400:cb00:2048:1::6810:72a5
+Gfycat.com	has AAAA address 2400:cb00:2048:1::6810:70a5
+Gfycat.com	has AAAA address 2400:cb00:2048:1::6810:74a5
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pornhub.com: No answer
+
+Authoritative answers can be found from:
+Pornhub.com
+	origin = sdns3.ultradns.net
+	mail addr = dns.mindgeek.com
+	serial = 2014032843
+	refresh = 28800
+	retry = 7200
+	expire = 1209600
+	minimum = 43200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Dropbox.com: No answer
+
+Authoritative answers can be found from:
+Dropbox.com
+	origin = ns-564.awsdns-06.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Groupon.com: No answer
+
+Authoritative answers can be found from:
+Groupon.com
+	origin = usc5.akam.net
+	mail addr = hostmaster.Groupon.com
+	serial = 2016020201
+	refresh = 300
+	retry = 600
+	expire = 864000
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Googleusercontent.com: No answer
+
+Authoritative answers can be found from:
+Googleusercontent.com
+	origin = ns1.google.com
+	mail addr = dns-admin.google.com
+	serial = 114036945
+	refresh = 900
+	retry = 900
+	expire = 1800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Tripadvisor.com: No answer
+
+Authoritative answers can be found from:
+Tripadvisor.com
+	origin = pdns1.ultradns.net
+	mail addr = hostmaster.Tripadvisor.com
+	serial = 2016020400
+	refresh = 10000
+	retry = 1800
+	expire = 604800
+	minimum = 180
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ups.com: No answer
+
+Authoritative answers can be found from:
+Ups.com
+	origin = resolve01.sslra.com
+	mail addr = internet.Ups.com
+	serial = 463357850
+	refresh = 600
+	retry = 10800
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Att.com	has AAAA address 2001:1890:1c00:3113::f:3005
+Att.com	has AAAA address 2001:1890:1c00:5112::f:1008
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Forbes.com: No answer
+
+Authoritative answers can be found from:
+Forbes.com
+	origin = pdns1.ultradns.net
+	mail addr = ops.Forbes.com
+	serial = 2015042359
+	refresh = 1200
+	retry = 3600
+	expire = 7200
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ask.com: No answer
+
+Authoritative answers can be found from:
+com
+	origin = hostmaster.com
+	mail addr = ns.com
+	serial = 1
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 30
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Usatoday.com: No answer
+
+Authoritative answers can be found from:
+Usatoday.com
+	origin = ns1.gannett.com
+	mail addr = dnsadmin.Usatoday.com
+	serial = 2016020501
+	refresh = 1200
+	retry = 600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cnet.com: No answer
+
+Authoritative answers can be found from:
+Cnet.com
+	origin = ns.Cnet.com
+	mail addr = hostmaster.Cnet.com
+	serial = 2016020500
+	refresh = 21600
+	retry = 1800
+	expire = 2419200
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Stackoverflow.com: No answer
+
+Authoritative answers can be found from:
+Stackoverflow.com
+	origin = cf-dns01.Stackoverflow.com
+	mail addr = dns.cloudflare.com
+	serial = 2020542603
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Adobe.com: No answer
+
+Authoritative answers can be found from:
+Adobe.com
+	origin = adobe-dns-01.Adobe.com
+	mail addr = hostmaster.Adobe.com
+	serial = 2876
+	refresh = 10800
+	retry = 900
+	expire = 2419200
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Vice.com: No answer
+
+Authoritative answers can be found from:
+Vice.com
+	origin = ns-1136.awsdns-14.org
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Conservativetribune.com	has AAAA address 2400:cb00:2048:1::6814:4fce
+Conservativetribune.com	has AAAA address 2400:cb00:2048:1::6814:50ce
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Verizonwireless.com: No answer
+
+Authoritative answers can be found from:
+Verizonwireless.com
+	origin = ns-twbg.Verizonwireless.com
+	mail addr = dnsadmin.nw.Verizonwireless.com
+	serial = 19198
+	refresh = 1800
+	retry = 600
+	expire = 604800
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Salesforce.com: No answer
+
+Authoritative answers can be found from:
+Salesforce.com
+	origin = dns01.Salesforce.com
+	mail addr = hostmaster.Salesforce.com
+	serial = 2016012853
+	refresh = 600
+	retry = 900
+	expire = 2678400
+	minimum = 10
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Patch.com: No answer
+
+Authoritative answers can be found from:
+Patch.com
+	origin = ns-1124.awsdns-12.org
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Dailymail.co.uk: No answer
+
+Authoritative answers can be found from:
+Dailymail.co.uk
+	origin = ns6.associated.co.uk
+	mail addr = hostmaster.associated.co.uk
+	serial = 2011070963
+	refresh = 3600
+	retry = 1800
+	expire = 864000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find About.com: No answer
+
+Authoritative answers can be found from:
+About.com
+	origin = ns1.p30.dynect.net
+	mail addr = admin.About.com
+	serial = 2016020300
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Fedex.com: No answer
+
+Authoritative answers can be found from:
+Fedex.com
+	origin = grace.Fedex.com
+	mail addr = hostmaster.Fedex.com
+	serial = 2016020501
+	refresh = 3600
+	retry = 1800
+	expire = 2592000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Macys.com: No answer
+
+Authoritative answers can be found from:
+Macys.com
+	origin = usw1.akam.net
+	mail addr = dnsteam.us.ibm.com
+	serial = 2016012700
+	refresh = 300
+	retry = 3600
+	expire = 432000
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Xvideos.com: No answer
+
+Authoritative answers can be found from:
+Xvideos.com
+	origin = ns1.randomserver.com
+	mail addr = webmaster.Xvideos.com
+	serial = 2015101929
+	refresh = 28800
+	retry = 3600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Citi.com: No answer
+
+Authoritative answers can be found from:
+Citi.com
+	origin = ns1.nsroot1.com
+	mail addr = hostmaster.Citi.com
+	serial = 2016020601
+	refresh = 3600
+	retry = 300
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Twitch.tv: No answer
+
+Authoritative answers can be found from:
+Twitch.tv
+	origin = a1.verisigndns.com
+	mail addr = admin.justin.tv
+	serial = 2014111594
+	refresh = 900
+	retry = 3600
+	expire = 604800
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Amazonaws.com: No answer
+
+Authoritative answers can be found from:
+Amazonaws.com
+	origin = pdns1.ultradns.net
+	mail addr = hostmaster.amazon.com
+	serial = 2014060530
+	refresh = 180
+	retry = 60
+	expire = 2592000
+	minimum = 5
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Github.com: No answer
+
+Authoritative answers can be found from:
+Github.com
+	origin = ns1.p16.dynect.net
+	mail addr = hostmaster.Github.com
+	serial = 1454608530
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Instructure.com: No answer
+
+Authoritative answers can be found from:
+Instructure.com
+	origin = ns1.p14.dynect.net
+	mail addr = domains.Instructure.com
+	serial = 2016020603
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Irs.gov: No answer
+
+Authoritative answers can be found from:
+Irs.gov
+	origin = ns1.Irs.gov
+	mail addr = it\.aciouns\.external\.dns\.admin.Irs.gov
+	serial = 2010085417
+	refresh = 3600
+	retry = 1800
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Kohls.com: No answer
+
+Authoritative answers can be found from:
+Kohls.com
+	origin = ns1.Kohls.com
+	mail addr = dns-admin.Kohls.com
+	serial = 2016013100
+	refresh = 1800
+	retry = 600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Force.com: No answer
+
+Authoritative answers can be found from:
+Force.com
+	origin = dns01.salesforce.com
+	mail addr = hostmaster.salesforce.com
+	serial = 2015507228
+	refresh = 600
+	retry = 900
+	expire = 2592000
+	minimum = 30
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Realtor.com: No answer
+
+Authoritative answers can be found from:
+Realtor.com
+	origin = ns1.move.com
+	mail addr = itsecurity.move.com
+	serial = 2014081827
+	refresh = 3600
+	retry = 1800
+	expire = 604800
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Wunderground.com: No answer
+
+Authoritative answers can be found from:
+Wunderground.com
+	origin = breeze.Wunderground.com
+	mail addr = dnsmanager.Wunderground.com
+	serial = 2016020505
+	refresh = 3600
+	retry = 1800
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Lowes.com: No answer
+
+Authoritative answers can be found from:
+Lowes.com
+	origin = wsdccgm.Lowes.com
+	mail addr = webtechcontact.Lowes.com
+	serial = 2011102976
+	refresh = 3600
+	retry = 3600
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Adp.com: No answer
+
+Authoritative answers can be found from:
+Adp.com
+	origin = dns1.Adp.com
+	mail addr = hostmaster.Adp.com
+	serial = 2015062742
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Businessinsider.com: No answer
+
+Authoritative answers can be found from:
+Businessinsider.com
+	origin = ns1.p14.dynect.net
+	mail addr = hostmaster.datapipe.net
+	serial = 2016020302
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Webmd.com: No answer
+
+Authoritative answers can be found from:
+Webmd.com
+	origin = ns1.p10.dynect.net
+	mail addr = nycpssysops.webmd.net
+	serial = 2016012200
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Southwest.com: No answer
+
+Authoritative answers can be found from:
+Southwest.com
+	origin = ns-sdc.Southwest.com
+	mail addr = domainrequest.wnco.com
+	serial = 347968271
+	refresh = 1800
+	retry = 300
+	expire = 2592000
+	minimum = 10800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bbc.com: No answer
+
+Authoritative answers can be found from:
+Bbc.com
+	origin = ns.bbc.co.uk
+	mail addr = hostmaster.bbc.co.uk
+	serial = 2015122100
+	refresh = 1800
+	retry = 600
+	expire = 864000
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Fidelity.com: No answer
+
+Authoritative answers can be found from:
+Fidelity.com
+	origin = fidns2.Fidelity.com
+	mail addr = fwis.fmr.com
+	serial = 6452
+	refresh = 10800
+	retry = 900
+	expire = 3456000
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Accuweather.com: No answer
+
+Authoritative answers can be found from:
+Accuweather.com
+	origin = dnsa.Accuweather.com
+	mail addr = hostmaster.Accuweather.com
+	serial = 2001086682
+	refresh = 14400
+	retry = 3600
+	expire = 2419200
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Discovercard.com: No answer
+
+Authoritative answers can be found from:
+Discovercard.com
+	origin = a1-23.akam.net
+	mail addr = techadmin.discover.com
+	serial = 330747489
+	refresh = 1200
+	retry = 180
+	expire = 1209600
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Allrecipes.com: No answer
+
+Authoritative answers can be found from:
+Allrecipes.com
+	origin = dns1.Allrecipes.com
+	mail addr = admin.Allrecipes.com
+	serial = 1999094459
+	refresh = 43200
+	retry = 7200
+	expire = 345600
+	minimum = 10800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nih.gov: No answer
+
+Authoritative answers can be found from:
+Nih.gov
+	origin = ens.Nih.gov
+	mail addr = hostmaster.Nih.gov
+	serial = 5763
+	refresh = 3600
+	retry = 600
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Kat.cr: No answer
+
+Authoritative answers can be found from:
+Kat.cr
+	origin = ns0.Kat.cr
+	mail addr = root.Kat.cr
+	serial = 1452860891
+	refresh = 86400
+	retry = 600
+	expire = 1209600
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Worldlifestyle.com: No answer
+
+Authoritative answers can be found from:
+Worldlifestyle.com
+	origin = ns-720.awsdns-26.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bleacherreport.com: No answer
+
+Authoritative answers can be found from:
+Bleacherreport.com
+	origin = ns-616.awsdns-13.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Soundcloud.com: No answer
+
+Authoritative answers can be found from:
+Soundcloud.com
+	origin = ns1.p20.dynect.net
+	mail addr = hostmaster.Soundcloud.com
+	serial = 157
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Gizmodo.com: No answer
+
+Authoritative answers can be found from:
+Gizmodo.com
+	origin = dns1.p07.nsone.net
+	mail addr = hostmaster.nsone.net
+	serial = 1448335441
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Expedia.com: No answer
+
+Authoritative answers can be found from:
+Expedia.com
+	origin = pdns1.ultradns.net
+	mail addr = domsup.Expedia.com
+	serial = 2015062014
+	refresh = 3600
+	retry = 600
+	expire = 259200
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ca.gov: No answer
+
+Authoritative answers can be found from:
+Ca.gov
+	origin = ns6.net.Ca.gov
+	mail addr = dnsrequest.state.Ca.gov
+	serial = 2011631127
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 10
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ancestry.com: No answer
+
+Authoritative answers can be found from:
+Ancestry.com
+	origin = ns1.p49.dynect.net
+	mail addr = domreg.myfamilyinc.com
+	serial = 2016020100
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Verizon.com: No answer
+
+Authoritative answers can be found from:
+Verizon.com
+	origin = ns1.Verizon.com
+	mail addr = sysmgr.Verizon.com
+	serial = 1974
+	refresh = 1800
+	retry = 600
+	expire = 4838400
+	minimum = 14400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Costco.com: No answer
+
+Authoritative answers can be found from:
+Costco.com
+	origin = dbru.br.ns.els-gms.att.net
+	mail addr = rm-hostmaster.ems.att.com
+	serial = 550
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Goodreads.com: No answer
+
+Authoritative answers can be found from:
+Goodreads.com
+	origin = dns-external-master.amazon.com
+	mail addr = root.amazon.com
+	serial = 75
+	refresh = 28800
+	retry = 900
+	expire = 604800
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Trulia.com: No answer
+
+Authoritative answers can be found from:
+Trulia.com
+	origin = ns1.p03.dynect.net
+	mail addr = hostmaster.Trulia.com
+	serial = 3008112764
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nbcnews.com: No answer
+
+Authoritative answers can be found from:
+Nbcnews.com
+	origin = ns1.Nbcnews.com
+	mail addr = nd.webops.nbcuni.com
+	serial = 2016020402
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nfl.com: No answer
+
+Authoritative answers can be found from:
+Nfl.com
+	origin = ns1-87.akam.net
+	mail addr = dns_admin.Nfl.com
+	serial = 2015100364
+	refresh = 30
+	retry = 15
+	expire = 3600000
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Wsj.com: No answer
+
+Authoritative answers can be found from:
+Wsj.com
+	origin = ns-1588.awsdns-06.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Wayfair.com: No answer
+
+Authoritative answers can be found from:
+Wayfair.com
+	origin = ns1.p01.dynect.net
+	mail addr = hostmaster.csnstores.com
+	serial = 2016020400
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Flickr.com: No answer
+
+Authoritative answers can be found from:
+Flickr.com
+	origin = hidden-master.yahoo.com
+	mail addr = hostmaster.yahoo-inc.com
+	serial = 2016020200
+	refresh = 1800
+	retry = 900
+	expire = 1209600
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Newegg.com: No answer
+
+Authoritative answers can be found from:
+Newegg.com
+	origin = a1-21.akam.net
+	mail addr = hostmaster.Newegg.com
+	serial = 2013112494
+	refresh = 900
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Feedly.com: No answer
+
+Authoritative answers can be found from:
+Feedly.com
+	origin = anna.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020559300
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Abcnews.go.com	canonical name = abcnews.gns.go.com.
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Taboola.com: No answer
+
+Authoritative answers can be found from:
+Taboola.com
+	origin = ns1-215.akam.net
+	mail addr = hostmaster.akamai.com
+	serial = 1454604684
+	refresh = 43200
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Baidu.com: No answer
+
+Authoritative answers can be found from:
+Baidu.com
+	origin = dns.Baidu.com
+	mail addr = sa.Baidu.com
+	serial = 2012129189
+	refresh = 300
+	retry = 300
+	expire = 2592000
+	minimum = 7200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Theguardian.com: No answer
+
+Authoritative answers can be found from:
+Theguardian.com
+	origin = ns1.p05.dynect.net
+	mail addr = websys.guardian.co.uk
+	serial = 2016020501
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nordstrom.com: No answer
+
+Authoritative answers can be found from:
+Nordstrom.com
+	origin = a4.nstld.com
+	mail addr = dnssupport.verisign-grs.com
+	serial = 2284765314
+	refresh = 28800
+	retry = 7200
+	expire = 2419200
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Woot.com: No answer
+
+Authoritative answers can be found from:
+Woot.com
+	origin = ns-1956.awsdns-52.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Spotify.com: No answer
+
+Authoritative answers can be found from:
+Spotify.com
+	origin = ns2.Spotify.com
+	mail addr = dns-admin.Spotify.com
+	serial = 2016020400
+	refresh = 1200
+	retry = 300
+	expire = 2419200
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pch.com: No answer
+
+Authoritative answers can be found from:
+Pch.com
+	origin = ns-483.awsdns-60.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 10800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Retailmenot.com: No answer
+
+Authoritative answers can be found from:
+Retailmenot.com
+	origin = pdns144.ultradns.com
+	mail addr = aus-eng-ops-dns.whalesharkmedia.com
+	serial = 2016012908
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Kayak.com: No answer
+
+Authoritative answers can be found from:
+Kayak.com
+	origin = ns1.p11.dynect.net
+	mail addr = hostmaster.Kayak.com
+	serial = 1454525977
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Drudgereport.com: No answer
+
+Authoritative answers can be found from:
+Drudgereport.com
+	origin = ns1.Drudgereport.com
+	mail addr = __hostmaster.Drudgereport.com
+	serial = 2016012600
+	refresh = 10800
+	retry = 1800
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Vimeo.com: No answer
+
+Authoritative answers can be found from:
+Vimeo.com
+	origin = ns-70.awsdns-08.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 2014020100
+	refresh = 86400
+	retry = 7200
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ebates.com: No answer
+
+Authoritative answers can be found from:
+Ebates.com
+	origin = a1.verisigndns.com
+	mail addr = hostmaster.Ebates.com
+	serial = 2015061288
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Netteller.com: No answer
+
+Authoritative answers can be found from:
+Netteller.com
+	origin = ns1.jackhenry.com
+	mail addr = hostmaster.jackhenry.com
+	serial = 2016010608
+	refresh = 7200
+	retry = 3600
+	expire = 1728000
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Hgtv.com: No answer
+
+Authoritative answers can be found from:
+Hgtv.com
+	origin = ns1.sninteractive.com
+	mail addr = hostmaster.scrippsnetworks.com
+	serial = 2012120840
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Blackboard.com: No answer
+
+Authoritative answers can be found from:
+Blackboard.com
+	origin = dnsmaster01.Blackboard.com
+	mail addr = internic.Blackboard.com
+	serial = 2006055367
+	refresh = 900
+	retry = 3600
+	expire = 2592000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Quora.com: No answer
+
+Authoritative answers can be found from:
+Quora.com
+	origin = ns1.p28.dynect.net
+	mail addr = zone-admin.dyndns.com
+	serial = 2016012500
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Overstock.com: No answer
+
+Authoritative answers can be found from:
+Overstock.com
+	origin = ns1.p20.dynect.net
+	mail addr = hostmaster.Overstock.com
+	serial = 2012103520
+	refresh = 900
+	retry = 300
+	expire = 604800
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Gap.com: No answer
+
+Authoritative answers can be found from:
+Gap.com
+	origin = udns1.ultradns.net
+	mail addr = hostmaster.Gap.com
+	serial = 2013110960
+	refresh = 900
+	retry = 600
+	expire = 36000000
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Onclickads.net: No answer
+
+Authoritative answers can be found from:
+Onclickads.net
+	origin = ns-599.awsdns-10.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find People.com: No answer
+
+Authoritative answers can be found from:
+People.com
+	origin = ns1.p07.dynect.net
+	mail addr = hostmaster.timeinc.net
+	serial = 2016020200
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Staples.com: No answer
+
+Authoritative answers can be found from:
+Staples.com
+	origin = ns1.Staples.com
+	mail addr = rm-hostmaster.ems.att.com
+	serial = 1226
+	refresh = 10800
+	retry = 3600
+	expire = 172800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Npr.org: No answer
+
+Authoritative answers can be found from:
+Npr.org
+	origin = holmes.Npr.org
+	mail addr = admin.Npr.org
+	serial = 2016020301
+	refresh = 5400
+	retry = 3600
+	expire = 604800
+	minimum = 1200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Taleo.net: No answer
+
+Authoritative answers can be found from:
+Taleo.net
+	origin = ns-a.pnap.net
+	mail addr = hostmaster.pnap.net
+	serial = 387479254
+	refresh = 1800
+	retry = 900
+	expire = 604800
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Xhamster.com	has AAAA address 2a02:b48:4000:d::1
+Xhamster.com	has AAAA address 2a02:b49:4:8::1
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Weather.gov: No answer
+
+Authoritative answers can be found from:
+Weather.gov
+	origin = dns02.woc.noaa.gov
+	mail addr = hostmaster.noaa.gov
+	serial = 2015123200
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Usaa.com: No answer
+
+Authoritative answers can be found from:
+Usaa.com
+	origin = usaans1.Usaa.com
+	mail addr = sysadmin.Usaa.com
+	serial = 2014261
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Thesaurus.com: No answer
+
+Authoritative answers can be found from:
+com
+	origin = hostmaster.com
+	mail addr = ns.com
+	serial = 1
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 30
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Fitbit.com: No answer
+
+Authoritative answers can be found from:
+Fitbit.com
+	origin = ns-1269.awsdns-30.org
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 2014022401
+	refresh = 7200
+	retry = 900
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Stackexchange.com: No answer
+
+Authoritative answers can be found from:
+Stackexchange.com
+	origin = cf-dns01.Stackexchange.com
+	mail addr = dns.cloudflare.com
+	serial = 2020542603
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Myfitnesspal.com: No answer
+
+Authoritative answers can be found from:
+Myfitnesspal.com
+	origin = ns-120.awsdns-15.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Aa.com: No answer
+
+Authoritative answers can be found from:
+Aa.com
+	origin = asia3.akam.net
+	mail addr = hostmaster.akamai.com
+	serial = 2013041232
+	refresh = 9600
+	retry = 3600
+	expire = 604800
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Secureserver.net: No answer
+
+Authoritative answers can be found from:
+Secureserver.net
+	origin = cns1.Secureserver.net
+	mail addr = dns.jomax.net
+	serial = 2016020507
+	refresh = 300
+	retry = 600
+	expire = 1209600
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Nametests.com	has AAAA address 2400:cb00:2048:1::6814:20b6
+Nametests.com	has AAAA address 2400:cb00:2048:1::6814:21b6
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Deviantart.com: No answer
+
+Authoritative answers can be found from:
+Deviantart.com
+	origin = ns-1119.awsdns-11.org
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Lifehacker.com: No answer
+
+Authoritative answers can be found from:
+Lifehacker.com
+	origin = dns1.p07.nsone.net
+	mail addr = hostmaster.nsone.net
+	serial = 1448335505
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Zulily.com: No answer
+
+Authoritative answers can be found from:
+Zulily.com
+	origin = a1-217.akam.net
+	mail addr = hoistmaster.Zulily.com
+	serial = 2014072609
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Foodnetwork.com: No answer
+
+Authoritative answers can be found from:
+Foodnetwork.com
+	origin = ns1.sninteractive.com
+	mail addr = hostmaster.scrippsnetworks.com
+	serial = 2012101546
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cbsnews.com: No answer
+
+Authoritative answers can be found from:
+Cbsnews.com
+	origin = ns1.cbsig.net
+	mail addr = root.cbsig.net
+	serial = 2013041866
+	refresh = 43200
+	retry = 1200
+	expire = 1209600
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Usbank.com: No answer
+
+Authoritative answers can be found from:
+Usbank.com
+	origin = ns3.Usbank.com
+	mail addr = domainadmin.Usbank.com
+	serial = 2008025384
+	refresh = 28800
+	retry = 3600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bloomberg.com: No answer
+
+Authoritative answers can be found from:
+Bloomberg.com
+	origin = pdns1.ultradns.net
+	mail addr = dnsmaster.Bloomberg.com
+	serial = 2013072898
+	refresh = 43200
+	retry = 3600
+	expire = 3600000
+	minimum = 14400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Sears.com: No answer
+
+Authoritative answers can be found from:
+Sears.com
+	origin = xbru.br.ns.els-gms.att.net
+	mail addr = rm-hostmaster.ems.att.com
+	serial = 1454042018
+	refresh = 3600
+	retry = 900
+	expire = 864000
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ticketmaster.com: No answer
+
+Authoritative answers can be found from:
+Ticketmaster.com
+	origin = a1-157.akam.net
+	mail addr = tmhostmaster.Ticketmaster.com
+	serial = 2980335816
+	refresh = 600
+	retry = 600
+	expire = 1048576
+	minimum = 2560
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Delta.com: No answer
+
+Authoritative answers can be found from:
+Delta.com
+	origin = a1.verisigndns.com
+	mail addr = mdnshelp.verisign.com
+	serial = 1405733352
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Weebly.com: No answer
+
+Authoritative answers can be found from:
+Weebly.com
+	origin = ns1.p29.dynect.net
+	mail addr = chris.Weebly.com
+	serial = 4408
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Glassdoor.com: No answer
+
+Authoritative answers can be found from:
+Glassdoor.com
+	origin = jill.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020638226
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Westernjournalism.com: No answer
+
+Authoritative answers can be found from:
+Westernjournalism.com
+	origin = igor.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020437867
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Latimes.com: No answer
+
+Authoritative answers can be found from:
+Latimes.com
+	origin = dns1.tribpub.com
+	mail addr = tis-dnsadmin.tribpub.com
+	serial = 2008111609
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Thekitchn.com: No answer
+
+Authoritative answers can be found from:
+Thekitchn.com
+	origin = ns-949.awsdns-54.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Emgn.com: No answer
+
+Authoritative answers can be found from:
+Emgn.com
+	origin = ns-894.awsdns-47.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ikea.com: No answer
+
+Authoritative answers can be found from:
+Ikea.com
+	origin = a4.nstld.com
+	mail addr = dnssupport.verisign-grs.com
+	serial = 2281078670
+	refresh = 28800
+	retry = 7200
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Jcpenney.com: No answer
+
+Authoritative answers can be found from:
+Jcpenney.com
+	origin = ns.Jcpenney.com
+	mail addr = techadmin.Jcpenney.com
+	serial = 2015101001
+	refresh = 300
+	retry = 300
+	expire = 300
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Reference.com: No answer
+
+Authoritative answers can be found from:
+com
+	origin = hostmaster.com
+	mail addr = ns.com
+	serial = 1
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 30
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Answers.com: No answer
+
+Authoritative answers can be found from:
+Answers.com
+	origin = ns0.nj1.Answers.com
+	mail addr = dcadmin.Answers.com
+	serial = 2016020301
+	refresh = 172800
+	retry = 300
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Swagbucks.com: No answer
+
+Authoritative answers can be found from:
+Swagbucks.com
+	origin = ns-812.awsdns-37.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 10
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Slate.com: No answer
+
+Authoritative answers can be found from:
+Slate.com
+	origin = ns-259.awsdns-32.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ign.com: No answer
+
+Authoritative answers can be found from:
+Ign.com
+	origin = ns-865.awsdns-44.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Powerball.com: No answer
+
+Authoritative answers can be found from:
+Powerball.com
+	origin = ns1.musl.com
+	mail addr = italerts.musl.com
+	serial = 280
+	refresh = 1200
+	retry = 600
+	expire = 1209600
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Airbnb.com: No answer
+
+Authoritative answers can be found from:
+Airbnb.com
+	origin = ns-1548.awsdns-01.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Hclips.com: No answer
+
+Authoritative answers can be found from:
+Hclips.com
+	origin = gabe.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020315499
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Faithtap.com: No answer
+
+Authoritative answers can be found from:
+Faithtap.com
+	origin = matt.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2019746494
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Hotnewhiphop.com: No answer
+
+Authoritative answers can be found from:
+Hotnewhiphop.com
+	origin = dns1.blulinx.com
+	mail addr = root.blulinx.com
+	serial = 2015112601
+	refresh = 3600
+	retry = 600
+	expire = 1209600
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Wikihow.com: No answer
+
+Authoritative answers can be found from:
+Wikihow.com
+	origin = ns10.dnsmadeeasy.com
+	mail addr = dns.dnsmadeeasy.com
+	serial = 2009010516
+	refresh = 43200
+	retry = 3600
+	expire = 1209600
+	minimum = 180
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Mashable.com: No answer
+
+Authoritative answers can be found from:
+Mashable.com
+	origin = usw1.akam.net
+	mail addr = hostmaster.akamai.com
+	serial = 1451927675
+	refresh = 43200
+	retry = 7200
+	expire = 604800
+	minimum = 7200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Constantcontact.com: No answer
+
+Authoritative answers can be found from:
+Constantcontact.com
+	origin = ns1.p15.dynect.net
+	mail addr = it.Constantcontact.com
+	serial = 7256
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Tmz.com: No answer
+
+Authoritative answers can be found from:
+Tmz.com
+	origin = ns-385.awsdns-48.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Quizlet.com: No answer
+
+Authoritative answers can be found from:
+Quizlet.com
+	origin = cns1.Quizlet.com
+	mail addr = dns.cloudflare.com
+	serial = 2020318559
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nydailynews.com: No answer
+
+Authoritative answers can be found from:
+Nydailynews.com
+	origin = ns10.customer.level3.net
+	mail addr = dns.level3.net
+	serial = 2016010703
+	refresh = 7200
+	retry = 600
+	expire = 2592000
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Diynetwork.com: No answer
+
+Authoritative answers can be found from:
+Diynetwork.com
+	origin = ns1.sninteractive.com
+	mail addr = hostmaster.scrippsnetworks.com
+	serial = 2012101465
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Creditkarma.com: No answer
+
+Authoritative answers can be found from:
+Creditkarma.com
+	origin = ns1.p16.dynect.net
+	mail addr = operations.Creditkarma.com
+	serial = 2016020300
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Blogger.com	has AAAA address 2607:f8b0:400a:807::2009
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Thepiratebay.se: No answer
+
+Authoritative answers can be found from:
+Thepiratebay.se
+	origin = dean.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020571863
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cbssports.com: No answer
+
+Authoritative answers can be found from:
+Cbssports.com
+	origin = ns1.cbsig.net
+	mail addr = root.cbsig.net
+	serial = 2005091480
+	refresh = 43200
+	retry = 1200
+	expire = 1209600
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Surveymonkey.com: No answer
+
+Authoritative answers can be found from:
+Surveymonkey.com
+	origin = amy.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020490713
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Meetup.com: No answer
+
+Authoritative answers can be found from:
+Meetup.com
+	origin = lisa.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020618440
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cnbc.com: No answer
+
+Authoritative answers can be found from:
+Cnbc.com
+	origin = ns1.p24.dynect.net
+	mail addr = hostmaster.ge.com
+	serial = 2009101914
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Icloud.com: No answer
+
+Authoritative answers can be found from:
+Icloud.com
+	origin = gridmaster-ib.apple.com
+	mail addr = hostmaster.apple.com
+	serial = 2011069066
+	refresh = 1800
+	retry = 900
+	expire = 2592000
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Time.com: No answer
+
+Authoritative answers can be found from:
+Time.com
+	origin = ns1.p07.dynect.net
+	mail addr = hostmaster.timeinc.net
+	serial = 2016020301
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Dmv.org: No answer
+
+Authoritative answers can be found from:
+Dmv.org
+	origin = ns1-232.akam.net
+	mail addr = hostmaster.akamai.com
+	serial = 1442335864
+	refresh = 43200
+	retry = 7200
+	expire = 604800
+	minimum = 0
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Aliexpress.com: No answer
+
+Authoritative answers can be found from:
+Aliexpress.com
+	origin = nsp.alibabaonline.com
+	mail addr = dnsadmin.alibaba-inc.com
+	serial = 1337531157
+	refresh = 300
+	retry = 900
+	expire = 2592000
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Houzz.com: No answer
+
+Authoritative answers can be found from:
+Houzz.com
+	origin = ns1.p02.dynect.net
+	mail addr = domain.Houzz.com
+	serial = 2015022769
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Box.com: No answer
+
+Authoritative answers can be found from:
+Box.com
+	origin = ns1.p05.dynect.net
+	mail addr = ops.box.net
+	serial = 31674
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Ed.gov	has AAAA address 2610:e8:9080:1ff:292e:4415:c761:682b
+Ed.gov	has AAAA address 2001:4870:400e:202:101::2
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Engadget.com: No answer
+
+Authoritative answers can be found from:
+Engadget.com
+	origin = dns-01.ns.aol.com
+	mail addr = hostmaster.aol.net
+	serial = 470951494
+	refresh = 86400
+	retry = 180
+	expire = 2592000
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Priceline.com: No answer
+
+Authoritative answers can be found from:
+Priceline.com
+	origin = a1.verisigndns.com
+	mail addr = mdnshelp.verisign.com
+	serial = 1452177853
+	refresh = 28800
+	retry = 7200
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Mapquest.com: No answer
+
+Authoritative answers can be found from:
+Mapquest.com
+	origin = dns-01.ns.aol.com
+	mail addr = hostmaster.aol.net
+	serial = 470951500
+	refresh = 86400
+	retry = 180
+	expire = 2592000
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Infusionsoft.com: No answer
+
+Authoritative answers can be found from:
+Infusionsoft.com
+	origin = ns1.Infusionsoft.com
+	mail addr = support.Infusionsoft.com
+	serial = 2011011201
+	refresh = 3600
+	retry = 180
+	expire = 1209600
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Legacy.com: No answer
+
+Authoritative answers can be found from:
+Legacy.com
+	origin = ns1.p14.dynect.net
+	mail addr = itdept.Legacy.com
+	serial = 349163879
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Okcupid.com: No answer
+
+Authoritative answers can be found from:
+Okcupid.com
+	origin = nameserver1.Okcupid.com
+	mail addr = dns.cloudflare.com
+	serial = 2020427504
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Dell.com: No answer
+
+Authoritative answers can be found from:
+Dell.com
+	origin = ns1.us.Dell.com
+	mail addr = hostmaster.Dell.com
+	serial = 458609481
+	refresh = 900
+	retry = 120
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nypost.com: No answer
+
+Authoritative answers can be found from:
+Nypost.com
+	origin = ns-1638.awsdns-12.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pnc.com: No answer
+
+Authoritative answers can be found from:
+Pnc.com
+	origin = dns11.Pnc.com
+	mail addr = hostmaster.Pnc.com
+	serial = 396404828
+	refresh = 1200
+	retry = 180
+	expire = 1209600
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find United.com: No answer
+
+Authoritative answers can be found from:
+United.com
+	origin = sopcgm.ual.com
+	mail addr = ualipconfig.United.com
+	serial = 2011110885
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bedbathandbeyond.com: No answer
+
+Authoritative answers can be found from:
+Bedbathandbeyond.com
+	origin = ns-west.cerf.net
+	mail addr = hostmaster.attens.com
+	serial = 2006092798
+	refresh = 300
+	retry = 1800
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Lifebuzz.com: No answer
+
+Authoritative answers can be found from:
+Lifebuzz.com
+	origin = lily.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2019751880
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Walgreens.com: No answer
+
+Authoritative answers can be found from:
+Walgreens.com
+	origin = ns2.Walgreens.com
+	mail addr = hostmaster.Walgreens.com
+	serial = 2015102028
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Gawker.com: No answer
+
+Authoritative answers can be found from:
+Gawker.com
+	origin = dns1.p03.nsone.net
+	mail addr = hostmaster.nsone.net
+	serial = 1448335434
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Eventbrite.com: No answer
+
+Authoritative answers can be found from:
+Eventbrite.com
+	origin = ns1.p14.dynect.net
+	mail addr = syseng.Eventbrite.com
+	serial = 249
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pbs.org: No answer
+
+Authoritative answers can be found from:
+Pbs.org
+	origin = a1.verisigndns.com
+	mail addr = dnssupport.verisign-grs.com
+	serial = 1369403354
+	refresh = 600
+	retry = 600
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Memecats.com: No answer
+
+Authoritative answers can be found from:
+Memecats.com
+	origin = ns.isprime.com
+	mail addr = support.isprime.com
+	serial = 1429199975
+	refresh = 16384
+	retry = 2048
+	expire = 1048576
+	minimum = 2560
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Steamcommunity.com: No answer
+
+Authoritative answers can be found from:
+Steamcommunity.com
+	origin = ns1.valvesoftware.com
+	mail addr = admin.valvesoftware.com
+	serial = 2015090700
+	refresh = 3600
+	retry = 900
+	expire = 2419200
+	minimum = 43200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Whitepages.com: No answer
+
+Authoritative answers can be found from:
+Whitepages.com
+	origin = ns1.p03.dynect.net
+	mail addr = hostmaster.Whitepages.com
+	serial = 1452217059
+	refresh = 10800
+	retry = 1800
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Putlocker.is: No answer
+
+Authoritative answers can be found from:
+Putlocker.is
+	origin = albert.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020237582
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Sharepoint.com	canonical name = sharepoint.microsoft.com.
+
+Authoritative answers can be found from:
+microsoft.com
+	origin = ns1.msft.net
+	mail addr = msnhst.microsoft.com
+	serial = 2016020503
+	refresh = 7200
+	retry = 600
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Eonline.com: No answer
+
+Authoritative answers can be found from:
+Eonline.com
+	origin = ns4.Eonline.com
+	mail addr = hostmaster.Eonline.com
+	serial = 2016012707
+	refresh = 1200
+	retry = 900
+	expire = 1800000
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Audible.com: No answer
+
+Authoritative answers can be found from:
+Audible.com
+	origin = dns-external-master.amazon.com
+	mail addr = postmaster.Audible.com
+	serial = 2009091131
+	refresh = 14400
+	retry = 3600
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find T-mobile.com: No answer
+
+Authoritative answers can be found from:
+T-mobile.com
+	origin = snprdapibx01.gsm1900.org
+	mail addr = admin.T-mobile.com
+	serial = 3333540920
+	refresh = 28800
+	retry = 1800
+	expire = 3600000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Qvc.com: No answer
+
+Authoritative answers can be found from:
+Qvc.com
+	origin = ns1.Qvc.com
+	mail addr = ntd.Qvc.com
+	serial = 2016012201
+	refresh = 86400
+	retry = 7200
+	expire = 2592000
+	minimum = 259200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Marketwatch.com: No answer
+
+Authoritative answers can be found from:
+Marketwatch.com
+	origin = ns-1588.awsdns-06.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Hp.com: No answer
+
+Authoritative answers can be found from:
+Hp.com
+	origin = cce02bchme.houston.Hp.com
+	mail addr = hostmaster.Hp.com
+	serial = 443241843
+	refresh = 900
+	retry = 600
+	expire = 2592000
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Media.tumblr.com	canonical name = dssedc4qxg7o6.cloudfront.net.
+
+Authoritative answers can be found from:
+dssedc4qxg7o6.cloudfront.net
+	origin = ns-2040.awsdns-63.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Redfin.com: No answer
+
+Authoritative answers can be found from:
+Redfin.com
+	origin = ns1-101.akam.net
+	mail addr = sysadmin.cotendo.com
+	serial = 2011031632
+	refresh = 3600
+	retry = 600
+	expire = 86400
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Godaddy.com: No answer
+
+Authoritative answers can be found from:
+Godaddy.com
+	origin = cns1.Godaddy.com
+	mail addr = dns.jomax.net
+	serial = 2016020503
+	refresh = 300
+	retry = 600
+	expire = 1209600
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pinimg.com: No answer
+
+Authoritative answers can be found from:
+Pinimg.com
+	origin = ns1.pinterest.com
+	mail addr = dns.pinterest.com
+	serial = 116
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Txxx.com: No answer
+
+Authoritative answers can be found from:
+Txxx.com
+	origin = gabe.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020634012
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Squarespace.com: No answer
+
+Authoritative answers can be found from:
+Squarespace.com
+	origin = ns1.p06.dynect.net
+	mail addr = domains.Squarespace.com
+	serial = 1102372
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Deadspin.com: No answer
+
+Authoritative answers can be found from:
+Deadspin.com
+	origin = dns1.p05.nsone.net
+	mail addr = hostmaster.nsone.net
+	serial = 1448334887
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Barnesandnoble.com: No answer
+
+Authoritative answers can be found from:
+Barnesandnoble.com
+	origin = pnjmasterns01.Barnesandnoble.com
+	mail addr = domainadmin.book.com
+	serial = 2016012801
+	refresh = 7200
+	retry = 3600
+	expire = 2592000
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cbs.com: No answer
+
+Authoritative answers can be found from:
+Cbs.com
+	origin = ns1.cbsig.net
+	mail addr = root.cbsig.net
+	serial = 2005112945
+	refresh = 1200
+	retry = 1200
+	expire = 1209600
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Marriott.com: No answer
+
+Authoritative answers can be found from:
+Marriott.com
+	origin = ns-west.cerf.net
+	mail addr = hostmaster.attens.com
+	serial = 2007033375
+	refresh = 1800
+	retry = 300
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Theverge.com: No answer
+
+Authoritative answers can be found from:
+Theverge.com
+	origin = ns1.p16.dynect.net
+	mail addr = abuse.sbnation.com
+	serial = 2016010400
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Fandango.com: No answer
+
+Authoritative answers can be found from:
+Fandango.com
+	origin = udns1.ultradns.net
+	mail addr = itoperations.Fandango.com
+	serial = 2014080754
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ew.com: No answer
+
+Authoritative answers can be found from:
+Ew.com
+	origin = ns1.p07.dynect.net
+	mail addr = hostmaster.timeinc.net
+	serial = 2016020200
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Yellowpages.com: No answer
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nextdoor.com: No answer
+
+Authoritative answers can be found from:
+Nextdoor.com
+	origin = ns-1005.awsdns-61.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Webex.com: No answer
+
+Authoritative answers can be found from:
+Webex.com
+	origin = ns1.as13445.net
+	mail addr = csg-dnsadmin.cisco.com
+	serial = 2013146070
+	refresh = 300
+	retry = 3600
+	expire = 604800
+	minimum = 120
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Zappos.com: No answer
+
+Authoritative answers can be found from:
+Zappos.com
+	origin = udns1.ultradns.net
+	mail addr = sys.Zappos.com
+	serial = 2014030662
+	refresh = 7200
+	retry = 3600
+	expire = 2419200
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Breitbart.com: No answer
+
+Authoritative answers can be found from:
+Breitbart.com
+	origin = ns1.drudgereport.com
+	mail addr = __hostmaster.Breitbart.com
+	serial = 2016013101
+	refresh = 10800
+	retry = 1800
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Fbcdn.net	has AAAA address 2a03:2880:2130:7f07:face:b00c::1
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Mayoclinic.org: No answer
+
+Authoritative answers can be found from:
+Mayoclinic.org
+	origin = infra-name4.mayo.edu
+	mail addr = noc.mayo.edu
+	serial = 921
+	refresh = 900
+	retry = 900
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Rottentomatoes.com: No answer
+
+Authoritative answers can be found from:
+Rottentomatoes.com
+	origin = ns1.p30.dynect.net
+	mail addr = sysadmin.flixster-inc.com
+	serial = 2016012102
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Sfgate.com: No answer
+
+Authoritative answers can be found from:
+Sfgate.com
+	origin = ns1.hearstnp.com
+	mail addr = domains.hearstnp.com
+	serial = 2016026001
+	refresh = 1800
+	retry = 1800
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cvs.com: No answer
+
+Authoritative answers can be found from:
+Cvs.com
+	origin = cbru.br.ns.els-gms.att.net
+	mail addr = rm-hostmaster.ems.att.com
+	serial = 319
+	refresh = 83000
+	retry = 10000
+	expire = 600000
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Onlinecreditcenter6.com: No answer
+
+Authoritative answers can be found from:
+Onlinecreditcenter6.com
+	origin = ns1.synchronyfinancial.com
+	mail addr = hostmaster.synchronyfinancial.com
+	serial = 2013040176
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nbcsports.com: No answer
+
+Authoritative answers can be found from:
+Nbcsports.com
+	origin = ns1.nbcuni.com
+	mail addr = domain\.admin.nbcuni.com
+	serial = 2014091867
+	refresh = 900
+	retry = 3600
+	expire = 2592000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find List-manage.com: No answer
+
+Authoritative answers can be found from:
+List-manage.com
+	origin = a1-205.akam.net
+	mail addr = domains.mailchimp.com
+	serial = 2015072306
+	refresh = 10800
+	retry = 3600
+	expire = 1209600
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Popsugar.com: No answer
+
+Authoritative answers can be found from:
+Popsugar.com
+	origin = ns-1286.awsdns-32.org
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Gamefaqs.com: No answer
+
+Authoritative answers can be found from:
+Gamefaqs.com
+	origin = ns.cnet.com
+	mail addr = hostmaster.cnet.com
+	serial = 2015091400
+	refresh = 21600
+	retry = 1800
+	expire = 2419200
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Politico.com: No answer
+
+Authoritative answers can be found from:
+Politico.com
+	origin = a1.verisigndns.com
+	mail addr = dnssupport.verisign-grs.com
+	serial = 2283179416
+	refresh = 28800
+	retry = 7200
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Shutterfly.com: No answer
+
+Authoritative answers can be found from:
+Shutterfly.com
+	origin = ns1.Shutterfly.com
+	mail addr = dnsadmin.Shutterfly.com
+	serial = 2016012901
+	refresh = 243
+	retry = 121
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Capitalone360.com: No answer
+
+Authoritative answers can be found from:
+Capitalone360.com
+	origin = weapon-x.capitalone.com
+	mail addr = hostmaster.capitalone.com
+	serial = 2014112235
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Likes.com: No answer
+
+Authoritative answers can be found from:
+Likes.com
+	origin = duke.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020628645
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Discover.com: No answer
+
+Authoritative answers can be found from:
+Discover.com
+	origin = a1-23.akam.net
+	mail addr = techadmin.Discover.com
+	serial = 330747878
+	refresh = 1200
+	retry = 180
+	expire = 1209600
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Mint.com: No answer
+
+Authoritative answers can be found from:
+Mint.com
+	origin = ns-348.awsdns-43.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Evernote.com: No answer
+
+Authoritative answers can be found from:
+Evernote.com
+	origin = ns1.p21.dynect.net
+	mail addr = hostmaster.Evernote.com
+	serial = 2016020301
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Rollingstone.com: No answer
+
+Authoritative answers can be found from:
+Rollingstone.com
+	origin = ns-382.awsdns-47.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Today.com: No answer
+
+Authoritative answers can be found from:
+Today.com
+	origin = ns1.Today.com
+	mail addr = nd.webops.nbcuni.com
+	serial = 2015110202
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Telegraph.co.uk: No answer
+
+Authoritative answers can be found from:
+Telegraph.co.uk
+	origin = vpns0.Telegraph.co.uk
+	mail addr = dns.Telegraph.co.uk
+	serial = 721045505
+	refresh = 1800
+	retry = 900
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Steampowered.com: No answer
+
+Authoritative answers can be found from:
+Steampowered.com
+	origin = ns1.valvesoftware.com
+	mail addr = admin-dns.valvesoftware.com
+	serial = 2016012601
+	refresh = 3600
+	retry = 900
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Coupons.com: No answer
+
+Authoritative answers can be found from:
+Coupons.com
+	origin = ns1-219.akam.net
+	mail addr = hostmaster.akamai.com
+	serial = 1453512726
+	refresh = 43200
+	retry = 7200
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nba.com: No answer
+
+Authoritative answers can be found from:
+Nba.com
+	origin = ns40.Nba.com
+	mail addr = dnsteam.Nba.com
+	serial = 2013081873
+	refresh = 7200
+	retry = 3600
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Shopify.com: No answer
+
+Authoritative answers can be found from:
+Shopify.com
+	origin = ns1.p19.dynect.net
+	mail addr = domains.jadedpixel.com
+	serial = 2008114765
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pof.com: No answer
+
+Authoritative answers can be found from:
+Pof.com
+	origin = pdns80.ultradns.com
+	mail addr = owen.Pof.com
+	serial = 2013071832
+	refresh = 86400
+	retry = 86400
+	expire = 86400
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Hilton.com: No answer
+
+Authoritative answers can be found from:
+Hilton.com
+	origin = ns1.twtelecom.net
+	mail addr = domain_tech.Hilton.com
+	serial = 2030
+	refresh = 3600
+	retry = 1800
+	expire = 6084800
+	minimum = 14400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Umblr.com: No answer
+
+Authoritative answers can be found from:
+Umblr.com
+	origin = ns0.dnsmadeeasy.com
+	mail addr = dns.dnsmadeeasy.com
+	serial = 2008010116
+	refresh = 43200
+	retry = 3600
+	expire = 1209600
+	minimum = 180
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Tvguide.com: No answer
+
+Authoritative answers can be found from:
+Tvguide.com
+	origin = a4.nstld.com
+	mail addr = dnssupport.verisign-grs.com
+	serial = 2284312301
+	refresh = 28800
+	retry = 7200
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Myshopify.com: No answer
+
+Authoritative answers can be found from:
+Myshopify.com
+	origin = ns1.p19.dynect.net
+	mail addr = domains.jadedpixel.com
+	serial = 2009011750
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Hrblock.com: No answer
+
+Authoritative answers can be found from:
+Hrblock.com
+	origin = ns3.Hrblock.com
+	mail addr = dnssupport.Hrblock.com
+	serial = 986836656
+	refresh = 3600
+	retry = 600
+	expire = 86400
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Gofundme.com: No answer
+
+Authoritative answers can be found from:
+Gofundme.com
+	origin = pdns70.ultradns.com
+	mail addr = andrewballester.gmail.com
+	serial = 2015120902
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Files.wordpress.com: No answer
+
+Authoritative answers can be found from:
+Files.wordpress.com
+	origin = mdns1.wordpress.com
+	mail addr = hostmaster.wordpress.com
+	serial = 157
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Schwab.com: No answer
+
+Authoritative answers can be found from:
+Schwab.com
+	origin = d00p2cdc.Schwab.com
+	mail addr = dnsadmin.Schwab.com
+	serial = 2005094759
+	refresh = 300
+	retry = 300
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ecollege.com: No answer
+
+Authoritative answers can be found from:
+Ecollege.com
+	origin = dns1.realed.com
+	mail addr = administrator.realeducation.com
+	serial = 2005085948
+	refresh = 3600
+	retry = 900
+	expire = 86400
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Sephora.com: No answer
+
+Authoritative answers can be found from:
+Sephora.com
+	origin = ns1.p05.dynect.net
+	mail addr = info.Sephora.com
+	serial = 2016020501
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Reuters.com: No answer
+
+Authoritative answers can be found from:
+Reuters.com
+	origin = ns11.westgroup.net
+	mail addr = hostmaster.Reuters.com
+	serial = 2016020504
+	refresh = 3600
+	retry = 604800
+	expire = 900
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Barclaycardus.com: No answer
+
+Authoritative answers can be found from:
+Barclaycardus.com
+	origin = ns1.Barclaycardus.com
+	mail addr = netadmin.Barclaycardus.com
+	serial = 2010072549
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Kickstarter.com: No answer
+
+Authoritative answers can be found from:
+Kickstarter.com
+	origin = ns-51.awsdns-06.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Wix.com: No answer
+
+Authoritative answers can be found from:
+Wix.com
+	origin = ns1.p14.dynect.net
+	mail addr = admin.Wix.com
+	serial = 2016020500
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Samsclub.com: No answer
+
+Authoritative answers can be found from:
+Samsclub.com
+	origin = external-n1.wal-mart.com
+	mail addr = dns.wal-mart.com
+	serial = 2013092439
+	refresh = 3600
+	retry = 1800
+	expire = 2592000
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Monster.com: No answer
+
+Authoritative answers can be found from:
+Monster.com
+	origin = ns1.tmpw.net
+	mail addr = hostmaster.tmpw.net
+	serial = 1454694945
+	refresh = 1800
+	retry = 600
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Rei.com: No answer
+
+Authoritative answers can be found from:
+Rei.com
+	origin = authns1.mpls.qwest.net
+	mail addr = dns-admin.qwestip.net
+	serial = 2009092647
+	refresh = 14400
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bongacams.com: No answer
+
+Authoritative answers can be found from:
+Bongacams.com
+	origin = ns1.Bongacams.com
+	mail addr = hostmaster.Bongacams.com
+	serial = 2015101000
+	refresh = 900
+	retry = 900
+	expire = 1800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Opentable.com: No answer
+
+Authoritative answers can be found from:
+Opentable.com
+	origin = a1-93.akam.net
+	mail addr = hostmaster.Opentable.com
+	serial = 2016020502
+	refresh = 1800
+	retry = 900
+	expire = 2700
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bbc.co.uk: No answer
+
+Authoritative answers can be found from:
+Bbc.co.uk
+	origin = ns.Bbc.co.uk
+	mail addr = hostmaster.Bbc.co.uk
+	serial = 2016012200
+	refresh = 1800
+	retry = 600
+	expire = 864000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cbslocal.com: No answer
+
+Authoritative answers can be found from:
+Cbslocal.com
+	origin = ns1.wordpress.com
+	mail addr = hostmaster.wordpress.com
+	serial = 2010041201
+	refresh = 14400
+	retry = 7200
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Thedailybeast.com: No answer
+
+Authoritative answers can be found from:
+Thedailybeast.com
+	origin = ns-584.awsdns-09.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bhphotovideo.com: No answer
+
+Authoritative answers can be found from:
+Bhphotovideo.com
+	origin = ns4.bhphoto.com
+	mail addr = root.Bhphotovideo.com
+	serial = 2016020601
+	refresh = 300
+	retry = 1800
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Usnews.com: No answer
+
+Authoritative answers can be found from:
+Usnews.com
+	origin = auth1.dns.Usnews.com
+	mail addr = hostmaster.Usnews.com
+	serial = 2016012501
+	refresh = 600
+	retry = 300
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Starbucks.com: No answer
+
+Authoritative answers can be found from:
+Starbucks.com
+	origin = a4.nstld.com
+	mail addr = dnssupport.verisign-grs.com
+	serial = 2284839250
+	refresh = 7200
+	retry = 3600
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Dailymotion.com: No answer
+
+Authoritative answers can be found from:
+Dailymotion.com
+	origin = dns-01.Dailymotion.com
+	mail addr = admins.Dailymotion.com
+	serial = 2016020600
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cracked.com: No answer
+
+Authoritative answers can be found from:
+Cracked.com
+	origin = dns1.demandmedia.com
+	mail addr = itops.demandmedia.com
+	serial = 2016012600
+	refresh = 43200
+	retry = 120
+	expire = 604800
+	minimum = 120
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Theatlantic.com: No answer
+
+Authoritative answers can be found from:
+Theatlantic.com
+	origin = a1.verisigndns.com
+	mail addr = dnssupport.verisign-grs.com
+	serial = 2281725204
+	refresh = 28800
+	retry = 7200
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Disney.go.com: No answer
+
+Authoritative answers can be found from:
+go.com
+	origin = sens01.dig.com
+	mail addr = dns-ops.dig.com
+	serial = 2016020499
+	refresh = 1200
+	retry = 180
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Jezebel.com: No answer
+
+Authoritative answers can be found from:
+Jezebel.com
+	origin = dns1.p08.nsone.net
+	mail addr = hostmaster.nsone.net
+	serial = 1448335473
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Lotterypost.com: No answer
+
+Authoritative answers can be found from:
+Lotterypost.com
+	origin = dns1.name-services.com
+	mail addr = info.name-services.com
+	serial = 1446770941
+	refresh = 172800
+	retry = 900
+	expire = 1814400
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Xnxx.com: No answer
+
+Authoritative answers can be found from:
+Xnxx.com
+	origin = ns1.randomserver.com
+	mail addr = webmaster.Xnxx.com
+	serial = 2015120303
+	refresh = 28800
+	retry = 3600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Match.com: No answer
+
+Authoritative answers can be found from:
+Match.com
+	origin = ns1-1.akam.net
+	mail addr = hostmaster.Match.com
+	serial = 416669148
+	refresh = 10800
+	retry = 3600
+	expire = 1209600
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Hotels.com: No answer
+
+Authoritative answers can be found from:
+Hotels.com
+	origin = pdns1.ultradns.net
+	mail addr = hostmaster.Hotels.com
+	serial = 2015032019
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Officedepot.com: No answer
+
+Authoritative answers can be found from:
+Officedepot.com
+	origin = udns1.ultradns.net
+	mail addr = hostadmin.Officedepot.com
+	serial = 2013112383
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Littlethings.com: No answer
+
+Authoritative answers can be found from:
+Littlethings.com
+	origin = ns-210.awsdns-26.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Kotaku.com: No answer
+
+Authoritative answers can be found from:
+Kotaku.com
+	origin = dns1.p06.nsone.net
+	mail addr = hostmaster.nsone.net
+	serial = 1448335502
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Medium.com: No answer
+
+Authoritative answers can be found from:
+Medium.com
+	origin = alina.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020611212
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Si.com: No answer
+
+Authoritative answers can be found from:
+Si.com
+	origin = ns1.p07.dynect.net
+	mail addr = hostmaster.timeinc.net
+	serial = 2016020401
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Toysrus.com: No answer
+
+Authoritative answers can be found from:
+Toysrus.com
+	origin = ftp2.tru.com
+	mail addr = dns-tech.Toysrus.com
+	serial = 2016020102
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Diply.com: No answer
+
+Authoritative answers can be found from:
+Diply.com
+	origin = a1-174.akam.net
+	mail addr = hostmaster.akamai.com
+	serial = 1454683194
+	refresh = 43200
+	retry = 7200
+	expire = 604800
+	minimum = 7200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Sbnation.com: No answer
+
+Authoritative answers can be found from:
+Sbnation.com
+	origin = ns1.p16.dynect.net
+	mail addr = abuse.Sbnation.com
+	serial = 2016010400
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Fool.com: No answer
+
+Authoritative answers can be found from:
+Fool.com
+	origin = ns181.a0.incapsecuredns.net
+	mail addr = dnsadminc.Fool.com
+	serial = 2016020502
+	refresh = 3600
+	retry = 1800
+	expire = 1209600
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Theblaze.com: No answer
+
+Authoritative answers can be found from:
+Theblaze.com
+	origin = usw2.akam.net
+	mail addr = hostmaster.mercuryradioarts.com
+	serial = 2012000147
+	refresh = 3600
+	retry = 900
+	expire = 604800
+	minimum = 14400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Instructables.com: No answer
+
+Authoritative answers can be found from:
+Instructables.com
+	origin = ns1.rimuhosting.com
+	mail addr = soacontact.rimuhosting.com
+	serial = 584
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bankrate.com: No answer
+
+Authoritative answers can be found from:
+Bankrate.com
+	origin = pdns1.ultradns.net
+	mail addr = PublicDNSAdmin.Bankrate.com
+	serial = 2012051105
+	refresh = 3600
+	retry = 600
+	expire = 1209600
+	minimum = 7200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Redtube.com: No answer
+
+Authoritative answers can be found from:
+Redtube.com
+	origin = sdns3.ultradns.net
+	mail addr = dns.mindgeek.com
+	serial = 2014110543
+	refresh = 3600
+	retry = 3600
+	expire = 3600
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Usmagazine.com: No answer
+
+Authoritative answers can be found from:
+Usmagazine.com
+	origin = ns-2021.awsdns-60.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bestsearcher.net: No answer
+
+Authoritative answers can be found from:
+Bestsearcher.net
+	origin = pdns07.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2015090900
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Roblox.com: No answer
+
+Authoritative answers can be found from:
+Roblox.com
+	origin = ns1.p07.dynect.net
+	mail addr = admin.Roblox.com
+	serial = 2357
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Timewarnercable.com: No answer
+
+Authoritative answers can be found from:
+Timewarnercable.com
+	origin = dns1.rr.com
+	mail addr = abuse.rr.com
+	serial = 2015121115
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find 247sports.com: No answer
+
+Authoritative answers can be found from:
+247sports.com
+	origin = ns-163.awsdns-20.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Wikimedia.org	has AAAA address 2620:0:863:ed1a::1
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Autotrader.com: No answer
+
+Authoritative answers can be found from:
+Autotrader.com
+	origin = ns1.Autotrader.com
+	mail addr = atsa.Autotrader.com
+	serial = 4431
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nike.com: No answer
+
+Authoritative answers can be found from:
+Nike.com
+	origin = ns1.Nike.com
+	mail addr = hostmaster.Nike.com
+	serial = 327
+	refresh = 10800
+	retry = 3600
+	expire = 1814400
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Livejasmin.com: No answer
+
+Authoritative answers can be found from:
+Livejasmin.com
+	origin = ns1.dditservices.com
+	mail addr = hostmaster.dditservices.com
+	serial = 2015110101
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 14400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Urbandictionary.com: No answer
+
+Authoritative answers can be found from:
+Urbandictionary.com
+	origin = ns-1783.awsdns-30.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Biblegateway.com: No answer
+
+Authoritative answers can be found from:
+Biblegateway.com
+	origin = ns-163.awsdns-20.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Mailchimp.com: No answer
+
+Authoritative answers can be found from:
+Mailchimp.com
+	origin = a1-205.akam.net
+	mail addr = domains.Mailchimp.com
+	serial = 2015061008
+	refresh = 10800
+	retry = 3600
+	expire = 1209600
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pogo.com: No answer
+
+Authoritative answers can be found from:
+Pogo.com
+	origin = ibgmc-eu1.ea.com
+	mail addr = hostmaster.ea.com
+	serial = 2014080265
+	refresh = 300
+	retry = 300
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Citibankonline.com: No answer
+
+Authoritative answers can be found from:
+Citibankonline.com
+	origin = ns1.nsroot1.com
+	mail addr = hostmaster.citi.com
+	serial = 2015081001
+	refresh = 3600
+	retry = 300
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Sprint.com: No answer
+
+Authoritative answers can be found from:
+Sprint.com
+	origin = reston-ns1.telemail.net
+	mail addr = domain_management.Sprint.com
+	serial = 2012012142
+	refresh = 3600
+	retry = 1800
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Chaturbate.com: No answer
+
+Authoritative answers can be found from:
+Chaturbate.com
+	origin = cns1.Chaturbate.com
+	mail addr = dns.cloudflare.com
+	serial = 2020645583
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Jet.com	has AAAA address 2400:cb00:2048:1::6810:478f
+Jet.com	has AAAA address 2400:cb00:2048:1::6810:458f
+Jet.com	has AAAA address 2400:cb00:2048:1::6810:468f
+Jet.com	has AAAA address 2400:cb00:2048:1::6810:498f
+Jet.com	has AAAA address 2400:cb00:2048:1::6810:488f
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Evite.com: No answer
+
+Authoritative answers can be found from:
+Evite.com
+	origin = ns-867.awsdns-44.net
+	mail addr = hostmaster.Evite.com
+	serial = 1
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Mlb.com: No answer
+
+Authoritative answers can be found from:
+Mlb.com
+	origin = ns1.p38.dynect.net
+	mail addr = systems.Mlb.com
+	serial = 2012060710
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Wnd.com: No answer
+
+Authoritative answers can be found from:
+Wnd.com
+	origin = ns1.ha-hosting.com
+	mail addr = hostmaster.aotto.com
+	serial = 2015123101
+	refresh = 10800
+	retry = 1800
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Dailykos.com: No answer
+
+Authoritative answers can be found from:
+Dailykos.com
+	origin = ns-1920.awsdns-48.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pcmag.com: No answer
+
+Authoritative answers can be found from:
+Pcmag.com
+	origin = ns-1406.awsdns-47.org
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Oracle.com: No answer
+
+Authoritative answers can be found from:
+Oracle.com
+	origin = a1-198.akam.net
+	mail addr = hostmaster\\\@oracle.com
+	serial = 2016020602
+	refresh = 7200
+	retry = 600
+	expire = 1209600
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Games1234.com: No answer
+
+Authoritative answers can be found from:
+Games1234.com
+	origin = pdns07.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2015090900
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Alibaba.com: No answer
+
+Authoritative answers can be found from:
+Alibaba.com
+	origin = nsp.alibabaonline.com
+	mail addr = dnsadmin.alibaba-inc.com
+	serial = 1337535755
+	refresh = 300
+	retry = 900
+	expire = 2592000
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Zendesk.com: No answer
+
+Authoritative answers can be found from:
+Zendesk.com
+	origin = ns.Zendesk.com
+	mail addr = hostmaster.Zendesk.com
+	serial = 1454807448
+	refresh = 21600
+	retry = 3600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Healthcare.gov	has AAAA address 2600:1409:a:189::1fc4
+Healthcare.gov	has AAAA address 2600:1409:a:192::1fc4
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Victoriassecret.com: No answer
+
+Authoritative answers can be found from:
+Victoriassecret.com
+	origin = ns1.lbidts.com
+	mail addr = domainadmin.limited.com
+	serial = 2012121948
+	refresh = 180
+	retry = 1800
+	expire = 604800
+	minimum = 7200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Directv.com: No answer
+
+Authoritative answers can be found from:
+Directv.com
+	origin = denns01.Directv.com
+	mail addr = domain.registrar.Directv.com
+	serial = 2016020401
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Chron.com: No answer
+
+Authoritative answers can be found from:
+Chron.com
+	origin = ns2.Chron.com
+	mail addr = root.Chron.com
+	serial = 2016012700
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Babycenter.com: No answer
+
+Authoritative answers can be found from:
+Babycenter.com
+	origin = ns1.Babycenter.com
+	mail addr = dns-tech.Babycenter.com
+	serial = 2016012200
+	refresh = 1200
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ny.gov: No answer
+
+Authoritative answers can be found from:
+Ny.gov
+	origin = ns0.Ny.gov
+	mail addr = dnsadmin.Ny.gov
+	serial = 2650
+	refresh = 900
+	retry = 300
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Foxsports.com: No answer
+
+Authoritative answers can be found from:
+Foxsports.com
+	origin = ns01.foxinc.com
+	mail addr = hostmaster.fox.com
+	serial = 379
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Icims.com: No answer
+
+Authoritative answers can be found from:
+Icims.com
+	origin = ns1.p09.dynect.net
+	mail addr = webmaster.Icims.com
+	serial = 2016020601
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 43200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Wired.com: No answer
+
+Authoritative answers can be found from:
+Wired.com
+	origin = ns-276.awsdns-34.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Funtime4less.com: No answer
+
+Authoritative answers can be found from:
+Funtime4less.com
+	origin = pdns07.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2015090900
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Merriam-webster.com: No answer
+
+Authoritative answers can be found from:
+Merriam-webster.com
+	origin = ns3.eb.com
+	mail addr = hostmaster.eb.com
+	serial = 2016012800
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Vanguard.com: No answer
+
+Authoritative answers can be found from:
+Vanguard.com
+	origin = ns.Vanguard.com
+	mail addr = hostmaster.Vanguard.com
+	serial = 337021237
+	refresh = 10800
+	retry = 3600
+	expire = 432000
+	minimum = 10800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Skype.com: No answer
+
+Authoritative answers can be found from:
+Skype.com
+	origin = ns1.msft.net
+	mail addr = msnhst.microsoft.com
+	serial = 2016020503
+	refresh = 7200
+	retry = 900
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Azlyrics.com: No answer
+
+Authoritative answers can be found from:
+Azlyrics.com
+	origin = ns1.theplanet.com
+	mail addr = root.theplanet.com
+	serial = 2016011700
+	refresh = 7200
+	retry = 600
+	expire = 1728000
+	minimum = 43200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Food.com: No answer
+
+Authoritative answers can be found from:
+Food.com
+	origin = ns1.sninteractive.com
+	mail addr = hostmaster.scrippsnetworks.com
+	serial = 2012110826
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Giphy.com: No answer
+
+Authoritative answers can be found from:
+Giphy.com
+	origin = ns-8.awsdns-01.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Qq.com: No answer
+
+Authoritative answers can be found from:
+Qq.com
+	origin = ns1.Qq.com
+	mail addr = webmaster.Qq.com
+	serial = 1330914143
+	refresh = 3600
+	retry = 300
+	expire = 86400
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Myway.com: No answer
+
+Authoritative answers can be found from:
+Myway.com
+	origin = name1.iaccap.com
+	mail addr = root.Myway.com
+	serial = 2015110402
+	refresh = 600
+	retry = 300
+	expire = 86400
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Custhelp.com: No answer
+
+Authoritative answers can be found from:
+Custhelp.com
+	origin = dnssc01.rightnowtech.com
+	mail addr = root.rightnowtech.com
+	serial = 1454806804
+	refresh = 600
+	retry = 180
+	expire = 1209600
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Vox.com: No answer
+
+Authoritative answers can be found from:
+Vox.com
+	origin = ns1.p16.dynect.net
+	mail addr = abuse.voxmedia.com
+	serial = 73
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Greatergood.com: No answer
+
+Authoritative answers can be found from:
+Greatergood.com
+	origin = ns-b.pnap.net
+	mail addr = postmaster.yss.com
+	serial = 2016011506
+	refresh = 3600
+	retry = 900
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Youporn.com: No answer
+
+Authoritative answers can be found from:
+Youporn.com
+	origin = pdns1.ultradns.net
+	mail addr = dns.mindgeek.com
+	serial = 2012042000
+	refresh = 86400
+	retry = 86400
+	expire = 86400
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Gamesperson.com: No answer
+
+Authoritative answers can be found from:
+Gamesperson.com
+	origin = pdns07.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2015090900
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Booking.com: No answer
+
+Authoritative answers can be found from:
+Booking.com
+	origin = ns0.bkngs.com
+	mail addr = domain.Booking.com
+	serial = 2016020402
+	refresh = 14400
+	retry = 3600
+	expire = 3628800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Aarp.org: No answer
+
+Authoritative answers can be found from:
+Aarp.org
+	origin = pdns83.ultradns.com
+	mail addr = root.Aarp.org
+	serial = 2016020620
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 31
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Gamestop.com: No answer
+
+Authoritative answers can be found from:
+Gamestop.com
+	origin = ns01.savvis.net
+	mail addr = dns.savvis.net
+	serial = 2015123101
+	refresh = 3600
+	retry = 300
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bodybuilding.com: No answer
+
+Authoritative answers can be found from:
+Bodybuilding.com
+	origin = ns10.dnsmadeeasy.com
+	mail addr = dns.dnsmadeeasy.com
+	serial = 2009010853
+	refresh = 43200
+	retry = 3600
+	expire = 1209600
+	minimum = 180
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Speedtest.net	has AAAA address 2001:4802:7901::c342:dcdc:0:1
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Vrbo.com: No answer
+
+Authoritative answers can be found from:
+Vrbo.com
+	origin = ns1.p13.dynect.net
+	mail addr = domains.homeaway.com
+	serial = 2009041290
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Slack.com: No answer
+
+Authoritative answers can be found from:
+Slack.com
+	origin = ns-1493.awsdns-58.org
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Fivethirtyeight.com: No answer
+
+Authoritative answers can be found from:
+Fivethirtyeight.com
+	origin = ns1.wordpress.com
+	mail addr = hostmaster.wordpress.com
+	serial = 2005071858
+	refresh = 14400
+	retry = 7200
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Thepennyhoarder.com: No answer
+
+Authoritative answers can be found from:
+Thepennyhoarder.com
+	origin = ns15.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2016020400
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Brassring.com: No answer
+
+Authoritative answers can be found from:
+Brassring.com
+	origin = a1-160.akam.net
+	mail addr = hostmaster.hiresystems.com
+	serial = 2015091736
+	refresh = 10800
+	retry = 600
+	expire = 86400
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bizjournals.com: No answer
+
+Authoritative answers can be found from:
+Bizjournals.com
+	origin = dns01.amcity.com
+	mail addr = dnsadmins.amcity.com
+	serial = 1795
+	refresh = 3600
+	retry = 600
+	expire = 1209600
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Kbb.com: No answer
+
+Authoritative answers can be found from:
+Kbb.com
+	origin = pdns164.ultradns.com
+	mail addr = ei.Kbb.com
+	serial = 2014051682
+	refresh = 600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Duckduckgo.com: No answer
+
+Authoritative answers can be found from:
+Duckduckgo.com
+	origin = ns0.dnsmadeeasy.com
+	mail addr = dns.dnsmadeeasy.com
+	serial = 2008013820
+	refresh = 43200
+	retry = 3600
+	expire = 1209600
+	minimum = 180
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Patheos.com: No answer
+
+Authoritative answers can be found from:
+Patheos.com
+	origin = ns0.dnsmadeeasy.com
+	mail addr = dns.dnsmadeeasy.com
+	serial = 2008010955
+	refresh = 43200
+	retry = 3600
+	expire = 1209600
+	minimum = 180
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Logicsgames.com: No answer
+
+Authoritative answers can be found from:
+Logicsgames.com
+	origin = pdns07.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2015090900
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Archive.org: No answer
+
+Authoritative answers can be found from:
+Archive.org
+	origin = ns1.Archive.org
+	mail addr = hostmaster.Archive.org
+	serial = 2016020401
+	refresh = 600
+	retry = 300
+	expire = 864000
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Qualtrics.com: No answer
+
+Authoritative answers can be found from:
+Qualtrics.com
+	origin = ns1.p28.dynect.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 2875
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ibanking-services.com: No answer
+
+Authoritative answers can be found from:
+Ibanking-services.com
+	origin = bdiia01.fnfis.com
+	mail addr = nssd\.ddi.fisglobal.com
+	serial = 2012071152
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bp.blogspot.com: No answer
+
+Authoritative answers can be found from:
+blogspot.com
+	origin = ns4.google.com
+	mail addr = dns-admin.google.com
+	serial = 114036945
+	refresh = 900
+	retry = 900
+	expire = 1800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Norton.com: No answer
+
+Authoritative answers can be found from:
+Norton.com
+	origin = pdns1.ultradns.net
+	mail addr = domains.symantec.com
+	serial = 2015031689
+	refresh = 86400
+	retry = 7200
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Consumerreports.org: No answer
+
+Authoritative answers can be found from:
+Consumerreports.org
+	origin = ns1.p24.dynect.net
+	mail addr = netops.consumer.org
+	serial = 147
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Secureinternetbank.com: No answer
+
+Authoritative answers can be found from:
+Secureinternetbank.com
+	origin = pdns206.ultradns.com
+	mail addr = bill.krause.fiserv.com
+	serial = 2014081362
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pearsoncmg.com: No answer
+
+Authoritative answers can be found from:
+Pearsoncmg.com
+	origin = ns.Pearsoncmg.com
+	mail addr = systems.Pearsoncmg.com
+	serial = 2016020101
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Ssa.gov	has AAAA address 2001:1930:d07::aaaa
+Ssa.gov	has AAAA address 2001:1930:e03::aaaa
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Playgamestoday.net: No answer
+
+Authoritative answers can be found from:
+Playgamestoday.net
+	origin = pdns07.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2015090900
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Livestrong.com: No answer
+
+Authoritative answers can be found from:
+Livestrong.com
+	origin = dns1.demandmedia.com
+	mail addr = itops.demandmedia.com
+	serial = 2016012600
+	refresh = 43200
+	retry = 120
+	expire = 604800
+	minimum = 120
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Battle.net: No answer
+
+Authoritative answers can be found from:
+Battle.net
+	origin = ns-west.cerf.net
+	mail addr = hostmaster.attens.com
+	serial = 2007022531
+	refresh = 10800
+	retry = 5400
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ehow.com: No answer
+
+Authoritative answers can be found from:
+Ehow.com
+	origin = dns1.demandmedia.com
+	mail addr = itops.demandmedia.com
+	serial = 2015202014
+	refresh = 43200
+	retry = 120
+	expire = 604800
+	minimum = 120
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Vistaprint.com: No answer
+
+Authoritative answers can be found from:
+Vistaprint.com
+	origin = ns1-134.akam.net
+	mail addr = dnsadmin.Vistaprint.com
+	serial = 2000093073
+	refresh = 14400
+	retry = 3600
+	expire = 86400
+	minimum = 5
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Jetblue.com: No answer
+
+Authoritative answers can be found from:
+Jetblue.com
+	origin = ns01.Jetblue.com
+	mail addr = websupport.Jetblue.com
+	serial = 2190
+	refresh = 1800
+	retry = 1200
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Harvard.edu: No answer
+
+Authoritative answers can be found from:
+Harvard.edu
+	origin = int-dns-2.Harvard.edu
+	mail addr = netmanager.Harvard.edu
+	serial = 2010089856
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Comenity.net: No answer
+
+Authoritative answers can be found from:
+Comenity.net
+	origin = scextvmwns01.adsdmz.net
+	mail addr = hostmaster.adsdmz.net
+	serial = 252
+	refresh = 900
+	retry = 600
+	expire = 86400
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Chicagotribune.com: No answer
+
+Authoritative answers can be found from:
+Chicagotribune.com
+	origin = dns1.tribpub.com
+	mail addr = tis-dnsadmin.tribpub.com
+	serial = 2008103613
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Noaa.gov	has AAAA address 2610:20:8000:8c01::24
+Noaa.gov	has AAAA address 2610:20:8800:8c00::24
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Directrev.com: No answer
+
+Authoritative answers can be found from:
+Directrev.com
+	origin = ns-1262.awsdns-29.org
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Office365.com: No answer
+
+Authoritative answers can be found from:
+Office365.com
+	origin = ch1mgt0101dc120.prdmgt01.prod.exchangelabs.com
+	mail addr = msnhst.microsoft.com
+	serial = 2013516922
+	refresh = 1800
+	retry = 900
+	expire = 2419200
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Salon.com: No answer
+
+Authoritative answers can be found from:
+Salon.com
+	origin = ns-738.awsdns-28.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Orbitz.com: No answer
+
+Authoritative answers can be found from:
+Orbitz.com
+	origin = ns1.p08.dynect.net
+	mail addr = hostmaster.Orbitz.com
+	serial = 2016010600
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Jalopnik.com: No answer
+
+Authoritative answers can be found from:
+Jalopnik.com
+	origin = dns1.p05.nsone.net
+	mail addr = hostmaster.nsone.net
+	serial = 1448335470
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cars.com: No answer
+
+Authoritative answers can be found from:
+Cars.com
+	origin = pdns90.ultradns.com
+	mail addr = hostmaster.classifiedventures.com
+	serial = 2012091447
+	refresh = 900
+	retry = 300
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Arstechnica.com: No answer
+
+Authoritative answers can be found from:
+Arstechnica.com
+	origin = ns1.servercentral.net
+	mail addr = dns.servercentral.net
+	serial = 1454807701
+	refresh = 7200
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Sina.com.cn: No answer
+
+Authoritative answers can be found from:
+Sina.com.cn
+	origin = ns1.Sina.com.cn
+	mail addr = zhihao.staff.Sina.com.cn
+	serial = 5
+	refresh = 1800
+	retry = 600
+	expire = 604801
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Github.io: No answer
+
+Authoritative answers can be found from:
+Github.io
+	origin = ns1.p16.dynect.net
+	mail addr = hostmaster.github.com
+	serial = 25
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Hollywoodreporter.com: No answer
+
+Authoritative answers can be found from:
+Hollywoodreporter.com
+	origin = ns-1609.awsdns-09.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Photobucket.com: No answer
+
+Authoritative answers can be found from:
+Photobucket.com
+	origin = ns1.p14.dynect.net
+	mail addr = dl-sysadmin.Photobucket.com
+	serial = 2015120802
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Refinery29.com: No answer
+
+Authoritative answers can be found from:
+Refinery29.com
+	origin = ns-497.awsdns-62.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nbc.com: No answer
+
+Authoritative answers can be found from:
+Nbc.com
+	origin = ns1.nbcuni.com
+	mail addr = domain\.admin.nbcuni.com
+	serial = 2015120833
+	refresh = 900
+	retry = 1800
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Khanacademy.org: No answer
+
+Authoritative answers can be found from:
+Khanacademy.org
+	origin = ns-1664.awsdns-16.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Meaww.com: No answer
+
+Authoritative answers can be found from:
+Meaww.com
+	origin = adi.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020592246
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Addthis.com: No answer
+
+Authoritative answers can be found from:
+Addthis.com
+	origin = ns1.p27.dynect.net
+	mail addr = admin.clearspring.com
+	serial = 2016020104
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Searchlock.com: No answer
+
+Authoritative answers can be found from:
+Searchlock.com
+	origin = ns0.dnsmadeeasy.com
+	mail addr = dns.dnsmadeeasy.com
+	serial = 2008011524
+	refresh = 43200
+	retry = 3600
+	expire = 1209600
+	minimum = 180
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Slideshare.net: No answer
+
+Authoritative answers can be found from:
+Slideshare.net
+	origin = ns1.linkedin.com
+	mail addr = hostmaster.linkedin.com
+	serial = 2016020602
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Upornia.com: No answer
+
+Authoritative answers can be found from:
+Upornia.com
+	origin = gabe.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020390362
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Suntrust.com: No answer
+
+Authoritative answers can be found from:
+Suntrust.com
+	origin = ns1.Suntrust.com
+	mail addr = hostmaster.Suntrust.com
+	serial = 2000022914
+	refresh = 21600
+	retry = 3600
+	expire = 1728000
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Indiatimes.com: No answer
+
+Authoritative answers can be found from:
+Indiatimes.com
+	origin = a1-127.akam.net
+	mail addr = mukesh\.tyagi.indiatimes.co.in
+	serial = 2013113367
+	refresh = 3600
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nhl.com: No answer
+
+Authoritative answers can be found from:
+Nhl.com
+	origin = ns1.Nhl.com
+	mail addr = gnodine.Nhl.com
+	serial = 2016020401
+	refresh = 1800
+	retry = 600
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Rr.com: No answer
+
+Authoritative answers can be found from:
+Rr.com
+	origin = dns1.Rr.com
+	mail addr = abuse.Rr.com
+	serial = 2016020401
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Fanfiction.net: No answer
+
+Authoritative answers can be found from:
+Fanfiction.net
+	origin = ns0.dnsmadeeasy.com
+	mail addr = dns.dnsmadeeasy.com
+	serial = 2008010148
+	refresh = 43200
+	retry = 3600
+	expire = 1209600
+	minimum = 180
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Forever21.com: No answer
+
+Authoritative answers can be found from:
+Forever21.com
+	origin = ns1-203.akam.net
+	mail addr = hostmaster.akamai.com
+	serial = 1444719077
+	refresh = 43200
+	retry = 7200
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Tdbank.com: No answer
+
+Authoritative answers can be found from:
+Tdbank.com
+	origin = ns-west.cerf.net
+	mail addr = rm-hostmaster.ems.att.com
+	serial = 194
+	refresh = 3600
+	retry = 900
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Careerbuilder.com: No answer
+
+Authoritative answers can be found from:
+Careerbuilder.com
+	origin = misty.cbjobs.net
+	mail addr = root.site.Careerbuilder.com
+	serial = 2014090800
+	refresh = 1800
+	retry = 900
+	expire = 1209600
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cox.net: No answer
+
+Authoritative answers can be found from:
+Cox.net
+	origin = Cox.net
+	mail addr = hostmaster.Cox.net
+	serial = 2015121800
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Popads.net: No answer
+
+Authoritative answers can be found from:
+Popads.net
+	origin = ns-1264.awsdns-30.org
+	mail addr = support.Popads.net
+	serial = 2015061201
+	refresh = 43200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Mit.edu	has AAAA address 2600:1409:a:18c::255e
+Mit.edu	has AAAA address 2600:1409:a:193::255e
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Bbt.com: No answer
+
+Authoritative answers can be found from:
+Bbt.com
+	origin = a4.nstld.com
+	mail addr = dnssupport.verisign-grs.com
+	serial = 1416712443
+	refresh = 3600
+	retry = 900
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Kaiserpermanente.org: No answer
+
+Authoritative answers can be found from:
+Kaiserpermanente.org
+	origin = ca5-dns.kp.org
+	mail addr = hostmaster.kp.org
+	serial = 405066442
+	refresh = 1200
+	retry = 180
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find 4dsply.com: No answer
+
+Authoritative answers can be found from:
+4dsply.com
+	origin = ns1.pkdomains.net
+	mail addr = dnsadmin.pkdomains.net
+	serial = 2014120401
+	refresh = 900
+	retry = 3600
+	expire = 1814400
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Realclearpolitics.com: No answer
+
+Authoritative answers can be found from:
+Realclearpolitics.com
+	origin = ns10.dnsmadeeasy.com
+	mail addr = dns.dnsmadeeasy.com
+	serial = 2009010392
+	refresh = 43200
+	retry = 3600
+	expire = 1209600
+	minimum = 180
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Naver.com: No answer
+
+Authoritative answers can be found from:
+Naver.com
+	origin = ns1.Naver.com
+	mail addr = webmaster.Naver.com
+	serial = 2016020501
+	refresh = 21600
+	retry = 1800
+	expire = 1209600
+	minimum = 180
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Pizzahut.com: No answer
+
+Authoritative answers can be found from:
+Pizzahut.com
+	origin = louappmsvm105.yum.com
+	mail addr = administrator
+	serial = 2001063095
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Llbean.com: No answer
+
+Authoritative answers can be found from:
+Llbean.com
+	origin = dns1.Llbean.com
+	mail addr = rtrout.Llbean.com
+	serial = 2010112037
+	refresh = 3600
+	retry = 360
+	expire = 604800
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+State.gov	has AAAA address 2001:428:d400:4:72:166:186:151
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Weightwatchers.com: No answer
+
+Authoritative answers can be found from:
+Weightwatchers.com
+	origin = ns2.weightwatchers.prod
+	mail addr = hostmaster.Weightwatchers.com
+	serial = 2890333785
+	refresh = 3600
+	retry = 1800
+	expire = 360000
+	minimum = 7200
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Ravelry.com: No answer
+
+Authoritative answers can be found from:
+Ravelry.com
+	origin = ns10.dnsmadeeasy.com
+	mail addr = dns.dnsmadeeasy.com
+	serial = 2009010391
+	refresh = 43200
+	retry = 3600
+	expire = 1209600
+	minimum = 180
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Shareasale.com: No answer
+
+Authoritative answers can be found from:
+Shareasale.com
+	origin = jonah.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020514162
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cloudfront.net: No answer
+
+Authoritative answers can be found from:
+Cloudfront.net
+	origin = ns-418.awsdns-52.com
+	mail addr = hostmaster.Cloudfront.net
+	serial = 1377556270
+	refresh = 16384
+	retry = 2048
+	expire = 1048576
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Gamesfamily.net: No answer
+
+Authoritative answers can be found from:
+Gamesfamily.net
+	origin = pdns07.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2015090900
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Edmunds.com: No answer
+
+Authoritative answers can be found from:
+Edmunds.com
+	origin = ns1.p05.dynect.net
+	mail addr = domainadmin.Edmunds.com
+	serial = 2016020300
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Weibo.com: No answer
+
+Authoritative answers can be found from:
+Weibo.com
+	origin = ns1.sina.com.cn
+	mail addr = zhihao.staff.sina.com.cn
+	serial = 1
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Newyorker.com: No answer
+
+Authoritative answers can be found from:
+Newyorker.com
+	origin = ns-276.awsdns-34.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Xbox.com: No answer
+
+Authoritative answers can be found from:
+Xbox.com
+	origin = ns1.msft.net
+	mail addr = msnhst.microsoft.com
+	serial = 2016020301
+	refresh = 7200
+	retry = 900
+	expire = 7200000
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Dominos.com: No answer
+
+Authoritative answers can be found from:
+Dominos.com
+	origin = ns04.Dominos.com
+	mail addr = dns-admin.Dominos.com
+	serial = 2010071747
+	refresh = 3600
+	retry = 300
+	expire = 2419200
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find 6pm.com: No answer
+
+Authoritative answers can be found from:
+6pm.com
+	origin = udns1.ultradns.net
+	mail addr = sys.6pm.com
+	serial = 2014022576
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Kinja.com: No answer
+
+Authoritative answers can be found from:
+Kinja.com
+	origin = dns1.p06.nsone.net
+	mail addr = hostmaster.nsone.net
+	serial = 1448335492
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Dealnews.com: No answer
+
+Authoritative answers can be found from:
+Dealnews.com
+	origin = dns1.p06.nsone.net
+	mail addr = hostmaster.nsone.net
+	serial = 1453740364
+	refresh = 3600
+	retry = 600
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Collegeboard.org: No answer
+
+Authoritative answers can be found from:
+Collegeboard.org
+	origin = ns-1937.awsdns-50.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Primewire.ag: No answer
+
+Authoritative answers can be found from:
+Primewire.ag
+	origin = jasmine.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020627631
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Iheart.com: No answer
+
+Authoritative answers can be found from:
+Iheart.com
+	origin = ns1.p10.dynect.net
+	mail addr = ccd-sa.clearchannel.com
+	serial = 2016020503
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Hsn.com: No answer
+
+Authoritative answers can be found from:
+Hsn.com
+	origin = dns.Hsn.com
+	mail addr = hostmaster.Hsn.com
+	serial = 2015060401
+	refresh = 3600
+	retry = 1800
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Healthgrades.com: No answer
+
+Authoritative answers can be found from:
+Healthgrades.com
+	origin = ns-202.awsdns-25.com
+	mail addr = hginf_eng.Healthgrades.com
+	serial = 2015051900
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Stanford.edu	has AAAA address 2607:f6d0:0:925a::ab43:d7c8
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Lds.org: No answer
+
+Authoritative answers can be found from:
+Lds.org
+	origin = ns1.intellectualreserveinc.org
+	mail addr = hostmaster.ldschurch.org
+	serial = 434624361
+	refresh = 1200
+	retry = 180
+	expire = 1209600
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Nesn.com: No answer
+
+Authoritative answers can be found from:
+Nesn.com
+	origin = ns1.wordpress.com
+	mail addr = hostmaster.wordpress.com
+	serial = 2005071858
+	refresh = 14400
+	retry = 7200
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Independent.co.uk: No answer
+
+Authoritative answers can be found from:
+Independent.co.uk
+	origin = ns6.associated.co.uk
+	mail addr = hostmaster.associated.co.uk
+	serial = 643
+	refresh = 3600
+	retry = 1800
+	expire = 864000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Msnbc.com: No answer
+
+Authoritative answers can be found from:
+Msnbc.com
+	origin = ns1.Msnbc.com
+	mail addr = nd.webops.nbcuni.com
+	serial = 2016020102
+	refresh = 60
+	retry = 3600
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Earthlink.net: No answer
+
+Authoritative answers can be found from:
+Earthlink.net
+	origin = itchy.Earthlink.net
+	mail addr = hostmaster.Earthlink.net
+	serial = 2015102700
+	refresh = 3600
+	retry = 300
+	expire = 2592000
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Samsung.com: No answer
+
+Authoritative answers can be found from:
+Samsung.com
+	origin = dnssm.Samsung.com
+	mail addr = ssdomain.Samsung.com
+	serial = 2016010416
+	refresh = 10800
+	retry = 3600
+	expire = 2419200
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Cisco.com	has AAAA address 2001:420:1101:1::a
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Gamespot.com: No answer
+
+Authoritative answers can be found from:
+Gamespot.com
+	origin = ns-1019.awsdns-63.net
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cabelas.com: No answer
+
+Authoritative answers can be found from:
+Cabelas.com
+	origin = ns0.Cabelas.com
+	mail addr = domainadmin.Cabelas.com
+	serial = 2016012500
+	refresh = 7200
+	retry = 1800
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Thefreedictionary.com: No answer
+
+Authoritative answers can be found from:
+Thefreedictionary.com
+	origin = ns7.farlex.com
+	mail addr = dns.tfd.com
+	serial = 2014120202
+	refresh = 600
+	retry = 300
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Hootsuite.com: No answer
+
+Authoritative answers can be found from:
+Hootsuite.com
+	origin = ns-1546.awsdns-01.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Synchronycredit.com: No answer
+
+Authoritative answers can be found from:
+Synchronycredit.com
+	origin = ns1.synchronyfinancial.com
+	mail addr = hostmaster.synchronyfinancial.com
+	serial = 2014032113
+	refresh = 10800
+	retry = 3600
+	expire = 2592000
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Att.net: No answer
+
+Authoritative answers can be found from:
+Att.net
+	origin = wycu.wy.br.np.els-gms.Att.net
+	mail addr = rm-hostmaster.ems.att.com
+	serial = 935
+	refresh = 86400
+	retry = 10000
+	expire = 604800
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Cdc.gov: No answer
+
+Authoritative answers can be found from:
+Cdc.gov
+	origin = ns2.Cdc.gov
+	mail addr = hostmaster.Cdc.gov
+	serial = 467647817
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Sourceforge.net: No answer
+
+Authoritative answers can be found from:
+Sourceforge.net
+	origin = ns1.p03.dynect.net
+	mail addr = hostmaster.corp.sourceforge.com
+	serial = 2016020507
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Gamepedia.com: No answer
+
+Authoritative answers can be found from:
+Gamepedia.com
+	origin = max.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2019826593
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Vid.me: No answer
+
+Authoritative answers can be found from:
+Vid.me
+	origin = ns-1964.awsdns-53.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Amazon.co.uk: No answer
+
+Authoritative answers can be found from:
+Amazon.co.uk
+	origin = dns-external-master.amazon.com
+	mail addr = root.amazon.com
+	serial = 2010111157
+	refresh = 600
+	retry = 300
+	expire = 3024000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Seekingalpha.com: No answer
+
+Authoritative answers can be found from:
+Seekingalpha.com
+	origin = ns1.p28.dynect.net
+	mail addr = hostmaster.Seekingalpha.com
+	serial = 1454410211
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Mozilla.org: No answer
+
+Authoritative answers can be found from:
+Mozilla.org
+	origin = ns.Mozilla.org
+	mail addr = sysadmins.Mozilla.org
+	serial = 2016020601
+	refresh = 180
+	retry = 180
+	expire = 1209600
+	minimum = 60
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Topix.com: No answer
+
+Authoritative answers can be found from:
+Topix.com
+	origin = brett.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2020637678
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 3600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find State.tx.us: No answer
+
+Authoritative answers can be found from:
+State.tx.us
+	origin = ns9.tex-an.net
+	mail addr = hostmaster.capnet.State.tx.us
+	serial = 2016010702
+	refresh = 7200
+	retry = 3600
+	expire = 3456000
+	minimum = 900
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Archiveofourown.org: No answer
+
+Authoritative answers can be found from:
+Archiveofourown.org
+	origin = tao.transformativeworks.org
+	mail addr = postmaster.transformativeworks.org
+	serial = 2016020501
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 14400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Timeanddate.com	has AAAA address 2a01:4f8:190:7292::2
+Timeanddate.com	has AAAA address 2a01:4f8:202:3465::2
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Kt9267.com: No answer
+
+Authoritative answers can be found from:
+Kt9267.com
+	origin = ns1.p07.dynect.net
+	mail addr = dns.advertise.com
+	serial = 3
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 1800
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Tomshardware.com: No answer
+
+Authoritative answers can be found from:
+Tomshardware.com
+	origin = ns-1533.awsdns-63.org
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Dickssportinggoods.com: No answer
+
+Authoritative answers can be found from:
+Dickssportinggoods.com
+	origin = dns1.cscdns.net
+	mail addr = hostmaster.melbourneitcbs.com
+	serial = 2013110741
+	refresh = 28800
+	retry = 7200
+	expire = 1209600
+	minimum = 14400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Stubhub.com: No answer
+
+Authoritative answers can be found from:
+Stubhub.com
+	origin = srwp01lba042.stubprod.com
+	mail addr = domains.Stubhub.com
+	serial = 1339
+	refresh = 600
+	retry = 900
+	expire = 604800
+	minimum = 500
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Drugs.com	has AAAA address 2600:1406:1a:397::19b8
+Drugs.com	has AAAA address 2600:1406:1a:3a4::19b8
+
+Authoritative answers can be found from:
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Mheducation.com: No answer
+
+Authoritative answers can be found from:
+Mheducation.com
+	origin = pdns85.ultradns.com
+	mail addr = hostmaster.Mheducation.com
+	serial = 2014111887
+	refresh = 3600
+	retry = 900
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Zergnet.com: No answer
+
+Authoritative answers can be found from:
+Zergnet.com
+	origin = ns-494.awsdns-61.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Geico.com: No answer
+
+Authoritative answers can be found from:
+Geico.com
+	origin = sparky.private.Geico.com
+	mail addr = hostmaster.Geico.com
+	serial = 2016020600
+	refresh = 10800
+	retry = 3600
+	expire = 604800
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Abc.go.com	canonical name = prod-abc-site.aws.seabc.go.com.
+
+Authoritative answers can be found from:
+aws.seabc.go.com
+	origin = ns-140.awsdns-17.com
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Thechive.com: No answer
+
+Authoritative answers can be found from:
+Thechive.com
+	origin = ns1.wordpress.com
+	mail addr = hostmaster.wordpress.com
+	serial = 2005071858
+	refresh = 14400
+	retry = 7200
+	expire = 604800
+	minimum = 300
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Howtogeek.com: No answer
+
+Authoritative answers can be found from:
+Howtogeek.com
+	origin = ns1.Howtogeek.com
+	mail addr = noc.edgecast.com
+	serial = 1397264924
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 600
+
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+*** Can't find Thewatchseries.to: No answer
+
+Authoritative answers can be found from:
+Thewatchseries.to
+	origin = ns1.Thewatchseries.to
+	mail addr = webmaster.Thewatchseries.to
+	serial = 2014122901
+	refresh = 28800
+	retry = 7200
+	expire = 864000
+	minimum = 86400
+

@@ -3,7 +3,7 @@ import sys
 '''
 AS-IPmapper.py
 Author: Casey Chesshir
-Usage: $ python3 AS-IPmapper.py top500sites.txt
+Usage: $ python3 AS-IPmapper.py top500IPs.txt
 
 
 '''

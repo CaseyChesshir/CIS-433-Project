@@ -1,3 +1,7 @@
+# subset.sh
+# Author: Casey Chesshir
+# Takes in a list of websites and outputs 
+# the IPv6 address if it exists. 
 #!/bin/bash
 
 counter=0
@@ -6,4 +10,4 @@ while read p; do
 
 	echo " $counter "
 	((counter++))
-done < output.txt
+done < top500sites.txt

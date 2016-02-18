@@ -1,3 +1,11 @@
+'''
+ipv6finder.py
+Author: Casey Chesshir
+
+Takes as input the output of subset.sh and outputs the list of 
+websites that have IPv6 addresses into ipv6capablesites.txt. 
+'''
+
 import re
 
 

@@ -1,3 +1,14 @@
+'''
+----------------------------------------------
+topsitescraper.py
+Author: Casey Chesshir
+
+Gathers data from alexa.com's website. Finds 
+the top 500 ranked websites and outputs into 
+a file called top500sites.txt. 
+----------------------------------------------
+'''
+
 from urllib.request import urlopen
 import re
 

@@ -11,6 +11,7 @@ a file called top500sites.txt.
 
 from urllib.request import urlopen
 import re
+import sys
 
 urls = [urlopen('http://www.alexa.com/topsites/countries/US')]
 for i in range(1,20):
@@ -23,9 +24,9 @@ sites = []
 for url in urls:
 	temp = re.findall(r'/siteinfo/.+>.+<',url)
 	sites.append([site[site.find(">") + 1:site.find("<")] for site in temp])
+print("sys.argv: " + sys.argv[0] + " " + sys.argv[1])
 
-
-f = open('top500sites.txt','w')
+f = open(sys.argv[1],'w')
 
 for site in sites:
 	for item in site:

@@ -12,7 +12,7 @@ import re
 
 #with open('AStoIP.txt') as out:
 #	with open('top500IPs.txt') as f:
-out = open('AStoIP.txt','w')
+out = open(sys.argv[2],'w')
 f = open(sys.argv[1])
 seen_v4_domains = set()
 seen_v6_domains = set()

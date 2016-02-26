@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>project alexa</title>
+	<link rel="stylesheet" href="style.css">
+	<link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+	<script src="app.js"></script>
+	
+
+</head>
+<body id='home'>
+	<section id="identity" >
+		<img src="img/logo.png" id="logo" height="67" width="58" alt="">
+		<h2>
+			<span class="purple" > project alexa </span>
+		</h2>
+		<h4 id='description'>an investigation into ipv4 ipv6 duality for popular websites</h4>
+		<nav>
+			<ul>
+				<li><a href="">>results</a></li>
+				<li><a href="">>analysis</a></li>
+				<li><a href="">>methods</a></li>
+				<li><a href="https://github.com/CaseyChesshir/CIS-433-Project.git">>repo</a></li>
+			</ul>
+		</nav>
+		<h1>
+			<span id="dns" class="green" >DNS</span>
+		</h1>
+		<h1>
+			<span id="ipv4" class="red" >IPv4</span>
+		</h1>
+		<h1>
+			<span id="ipv6" class="blue" >IPv6</span>
+		</h1>
+
+		<h4 class="graphdesc">visualization of ipv6 adoption amongst alexa top 500 sites</h4>
+		<div>
+			<span><canvas id="myChart" class="hidden" width="400" height="400"></canvas></span>
+			<span id="ipv6sites" class="hidden"></span>
+		</div>
+		<h1 class="graphdesc">only 27 out of the alexa top 500 have ipv6 capabilities</h1>
+	</section>
+	<footer>
+		website and research by dylan ruggeroli, casey chesshir, and phillip kriegel. guided by mingwei zhang
+	</footer>
+</body>
+</html>

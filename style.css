@@ -1,0 +1,141 @@
+.purple{
+	color:purple;
+}
+
+.green{
+	color:green;
+}
+
+.blue{
+	color:blue;
+}
+
+.red{
+	color:red;
+}
+
+canvas#myChart{
+	margin: 0 auto;
+	display: block;
+	width: 50%;
+	float: left;
+}
+
+#ipv6sites{
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+}
+
+.hidden{
+	opacity: 0;
+}
+
+#description{
+	color: grey;
+}
+
+.graphdesc{
+	color: grey;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+#home #logo{
+	margin-bottom: 2%;
+}
+#logo{
+	margin-top:5%;
+	margin-bottom:5%;
+}
+.tag{
+	display: inline-block;
+	background-color: blue;
+	/*background: black;*/
+	padding: .15rem .5rem;
+	border-radius: 2rem;
+	color: white;
+	/* font-weight: 100; */
+	font-size: 90%;
+}
+
+.blink {
+      animation: blink 1.5s steps(4, start) infinite;
+      -webkit-animation: blink 1.5s steps(4, start) infinite;
+    }
+@keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+
+*{
+	/*font-family: courier;*/
+	font-family: 'helvetica';
+	font-family: 'Inconsolata' ;
+	font-weight: 100;
+	/*letter-spacing: .025rem;*/
+}
+body{
+	padding:0 15%;
+}
+ul{
+	padding-left: 0rem;
+}
+nav ul{
+	list-style: none;
+	padding-top:  .5rem;
+	display: inline;
+
+}
+nav ul li{
+	display: inline;
+	padding: .5rem .5rem .5rem 0rem;
+}
+
+#home nav ul li{
+	display: block;
+}
+
+#page-header{
+	color:orange;
+}
+
+footer{
+	position: fixed;
+	background: rgba(255,255,255,.9);
+	width: 100%;
+	bottom: 0rem;
+	color:grey;
+	font-size: 80%;
+	padding: 1rem 0rem 2rem;
+}
+
+@media(max-width: 625px){
+	body{
+		font-size: 90%;
+		padding:0 5%;
+	}
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inconsolata'), url(https://fonts.gstatic.com/s/inconsolata/v12/BjAYBlHtW3CJxDcjzrnZCLrIa-7acMAeDBVuclsi6Gc.woff) format('woff');
+}
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Inconsolata Bold'), local('Inconsolata-Bold'), url(https://fonts.gstatic.com/s/inconsolata/v12/AIed271kqQlcIRSOnQH0yRbnBKKEOwRKgsHDreGcocg.woff) format('woff');
+}

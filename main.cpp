@@ -35,6 +35,8 @@ int main(){
 	std::string foldertime = "mkdir data/" + std::to_string(now->tm_year + 1900) + "-" + std::to_string(now->tm_mon) + "-" + std::to_string(now->tm_mday) + "-" + std::to_string(now->tm_hour) + "h" + std::to_string(now->tm_min) + "m" + std::to_string(now->tm_sec) + "s"; 
 	system(foldertime.c_str());
 	foldertime = foldertime.substr(5,std::string::npos);
+	
+	/*
 	std::cout << "sending scraper off" << std::endl;	
 	system(("python3 topsitescraper.py " + foldertime + "/top500sites.txt").c_str());
 	std::cout << "scraper joined back" << std::endl;
@@ -54,6 +56,15 @@ int main(){
 	std::cout << "sending ipv6finder.py off" << std::endl;
 	system(("python3 ipv6finder.py " + foldertime + "/nslookups.txt " + foldertime + "/ipv6capablesites.txt").c_str());
 	std::cout << "ipv6finder.py joined back" << std::endl;
+
+	*/
+
+	std::string year = std::to_string(now->tm_year+1900);
+	std::string month = std::to_string(now->tm_mon);
+	std::cout << year << std::endl;
+	std::cout << month << std::endl;
+	std::string riburl = "http://archive.routeviews.org/bgpdata/2016.02/RIBS/rib.20160228.0000.bz2";
+
 
 
 	/*

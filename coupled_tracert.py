@@ -4,7 +4,7 @@
 #			(one for IPv4 and another for IPv6). Results are stored in a
 #			text file.
 
-import subprocess, sys, time
+import subprocess, sys, time, platform
 
 dest = sys.argv[1]
 date = time.strftime("%m_%d")
@@ -50,8 +50,14 @@ def parse_trace(file_string):
 	return ip_list
 
 
-bytes_for_six  = subprocess.check_output(["tracert", "-6", dest])
-bytes_for_four = subprocess.check_output(["tracert", "-4", dest])
+current_platform = platform.platform()
+
+if current_platform[0] == 'W':
+	bytes_for_six = subprocess.check_output(["tracert", "-6", dest])
+	bytes_for_four = subprocess.check_output(["tracert", "-4", dest])
+else:
+	bytes_for_six  = subprocess.check_output(["traceroute6", dest])
+	bytes_for_four = subprocess.check_output(["traceroute", dest])
 
 string_for_six = bytes_for_six.decode('utf-8')
 string_for_four = bytes_for_four.decode('utf-8')

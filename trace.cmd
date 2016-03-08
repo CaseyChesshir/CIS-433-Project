@@ -1,0 +1,1 @@
+for /F "tokens=*" %%A in (output.txt) do coupled_tracert.py %%A

@@ -7,7 +7,7 @@
 import subprocess, sys, time
 
 dest = sys.argv[1]
-date = time.strftime("%m_%d")
+date = time.strftime("%m_26")
 date = dest + '_' + date + '.txt'
 text_file = open(date, "a")
 

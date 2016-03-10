@@ -1,8 +1,7 @@
-import glob, sys, re
+import glob, re
 
-dest = sys.argv[1]
-date = dest + '_diagnostics.txt'
-diag_file = open(date, "w+")
+name = 'master_diagnostics.txt'
+diag_file = open(name, "w+")
 
 countList6 = []
 countList4 = []
@@ -48,7 +47,7 @@ def process(tempIPcount, ipAddr, ipList):
 	if not exists:
 		ipList.append(t)
 
-for filename in glob.glob(dest + '_02*'):
+for filename in glob.glob('*.com_02*'):
 	textFile = open(filename, "r")
 
 	for line in textFile:
@@ -85,11 +84,11 @@ for element in countList6:
 	element.getPercentTotal(sixHops)
 	diag_file.write(str(element))
 
-diag_file.write("\nTotal hops for IPv6: " + str(sixHops) + "\n")
+diag_file.write("\nTotal hops for v6: " + str(sixHops) + "\n")
 
 diag_file.write("\nDiagnostics for IPv4:\n")
 for element in countList4:
 	element.getPercentTotal(fourHops)
 	diag_file.write(str(element))
 
-diag_file.write("\nTotal hops for IPv4: " + str(fourHops) + "\n")
+diag_file.write("\nTotal hops for v4: " + str(fourHops) + "\n")
